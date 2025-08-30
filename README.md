@@ -3,10 +3,10 @@
 **API-Extender** (product) from _Vitae Springs Software LLC_ (DBA **API Extender**) is a native extension for Microsoft Dynamics 365 Business Central that exposes extended tables & custom fields through a clean, Power BI–ready API surface.
 
 - **Download extension (.app):**  
-  ➜ https://github.com/Vitae-Springs-Software-LLC/API-Extender/releases/latest/download/api-extender.app
+  ➜ https://github.com/AnalyzeBC/API-Extender/releases/latest/download/api-extender.app
 
 - **Default configuration (CSV):**  
-  ➜ https://github.com/Vitae-Springs-Software-LLC/API-Extender/releases/latest/download/defaults.csv
+  ➜ https://github.com/AnalyzeBC/API-Extender/releases/latest/download/defaults.csv
 
 ## Docs
 - [BC API v2 vs. Extended Connector Q&A](docs/bc-api-v2-vs-extended-connector.md)
