@@ -1,0 +1,2380 @@
+table,field
+Currency,Code
+Currency,Currency Factor
+Currency,Description
+Currency,EMU Currency
+Currency,Last Date Adjusted
+Currency,Last Date Modified
+Currency,Last Modified Date Time
+Currency,SystemCreatedAt
+Currency,SystemModifiedAt
+Currency Exchange Rate,Adjustment Exch. Rate Amount
+Currency Exchange Rate,Currency Code
+Currency Exchange Rate,Exchange Rate Amount
+Currency Exchange Rate,Fix Exchange Rate Amount
+Currency Exchange Rate,Relational Adjmt Exch Rate Amt
+Currency Exchange Rate,Relational Currency Code
+Currency Exchange Rate,Relational Exch. Rate Amount
+Currency Exchange Rate,Starting Date
+Currency Exchange Rate,SystemCreatedAt
+Currency Exchange Rate,SystemModifiedAt
+Cust. Ledger Entry,Applies-to Doc. No.
+Cust. Ledger Entry,Applies-to Doc. Type
+Cust. Ledger Entry,Applies-to Ext. Doc. No.
+Cust. Ledger Entry,Applies-to ID
+Cust. Ledger Entry,Applying Entry
+Cust. Ledger Entry,Closed at Date
+Cust. Ledger Entry,Closed by Amount
+Cust. Ledger Entry,Closed by Amount (LCY)
+Cust. Ledger Entry,Closed by Currency Amount
+Cust. Ledger Entry,Closed by Currency Code
+Cust. Ledger Entry,Closed by Entry No.
+Cust. Ledger Entry,Currency Code
+Cust. Ledger Entry,Customer Name
+Cust. Ledger Entry,Customer No.
+Cust. Ledger Entry,Customer Posting Group
+Cust. Ledger Entry,Description
+Cust. Ledger Entry,Dimension Set ID
+Cust. Ledger Entry,Document Date
+Cust. Ledger Entry,Document No.
+Cust. Ledger Entry,Document Type
+Cust. Ledger Entry,Due Date
+Cust. Ledger Entry,Entry No.
+Cust. Ledger Entry,External Document No.
+Cust. Ledger Entry,Global Dimension 1 Code
+Cust. Ledger Entry,Global Dimension 2 Code
+Cust. Ledger Entry,Inv. Discount (LCY)
+Cust. Ledger Entry,Open
+Cust. Ledger Entry,Payment Method Code
+Cust. Ledger Entry,Payment Reference
+Cust. Ledger Entry,Pmt. Disc. Given (LCY)
+Cust. Ledger Entry,Pmt. Disc. Tolerance Date
+Cust. Ledger Entry,Pmt. Discount Date
+Cust. Ledger Entry,Pmt. Tolerance (LCY)
+Cust. Ledger Entry,Positive
+Cust. Ledger Entry,Posting Date
+Cust. Ledger Entry,Profit (LCY)
+Cust. Ledger Entry,Promised Pay Date
+Cust. Ledger Entry,Reason Code
+Cust. Ledger Entry,Reversed
+Cust. Ledger Entry,Reversed by Entry No.
+Cust. Ledger Entry,Reversed Entry No.
+Cust. Ledger Entry,Sales (LCY)
+Cust. Ledger Entry,Salesperson Code
+Cust. Ledger Entry,Sell-to Customer No.
+Cust. Ledger Entry,Source Code
+Cust. Ledger Entry,SystemCreatedAt
+Cust. Ledger Entry,SystemModifiedAt
+Cust. Ledger Entry,Transaction No.
+Cust. Ledger Entry,User ID
+Cust. Ledger Entry,Your Reference
+Customer,Address
+Customer,Address 2
+Customer,Bill-to Customer No.
+Customer,Blocked
+Customer,City
+Customer,Contact
+Customer,Country/Region Code
+Customer,County
+Customer,Credit Limit (LCY)
+Customer,Currency Code
+Customer,Customer Disc. Group
+Customer,Customer Posting Group
+Customer,Customer Price Group
+Customer,E-Mail
+Customer,Fax No.
+Customer,Gen. Bus. Posting Group
+Customer,Global Dimension 1 Code
+Customer,Global Dimension 2 Code
+Customer,Invoice Disc. Code
+Customer,Language Code
+Customer,Last Date Modified
+Customer,Last Modified Date Time
+Customer,Last Statement No.
+Customer,Location Code
+Customer,Mobile Phone No.
+Customer,Name
+Customer,Name 2
+Customer,No.
+Customer,Our Account No.
+Customer,Partner Type
+Customer,Payment Method Code
+Customer,Payment Terms Code
+Customer,Phone No.
+Customer,Place of Export
+Customer,Post Code
+Customer,Primary Contact No.
+Customer,Priority
+Customer,Responsibility Center
+Customer,Salesperson Code
+Customer,Service Zone Code
+Customer,Shipment Method Code
+Customer,Shipping Agent Code
+Customer,Shipping Agent Service Code
+Customer,Ship-to Code
+Customer,State Inscription
+Customer,Statistics Group
+Customer,SystemCreatedAt
+Customer,SystemModifiedAt
+Customer,SystemID
+Customer,Tax Area Code
+Customer,Tax Exemption No.
+Customer,Tax Identification Type
+Customer,Tax Liable
+Customer,Territory Code
+Customer,VAT Bus. Posting Group
+Detailed Cust. Ledg. Entry,Amount
+Detailed Cust. Ledg. Entry,Amount (LCY)
+Detailed Cust. Ledg. Entry,Application No.
+Detailed Cust. Ledg. Entry,Applied Cust. Ledger Entry No.
+Detailed Cust. Ledg. Entry,Credit Amount
+Detailed Cust. Ledg. Entry,Credit Amount (LCY)
+Detailed Cust. Ledg. Entry,Currency Code
+Detailed Cust. Ledg. Entry,Cust. Ledger Entry No.
+Detailed Cust. Ledg. Entry,Customer No.
+Detailed Cust. Ledg. Entry,Debit Amount
+Detailed Cust. Ledg. Entry,Debit Amount (LCY)
+Detailed Cust. Ledg. Entry,Document No.
+Detailed Cust. Ledg. Entry,Document Type
+Detailed Cust. Ledg. Entry,Entry No.
+Detailed Cust. Ledg. Entry,Entry Type
+Detailed Cust. Ledg. Entry,Exch. Rate Adjmt. Reg. No.
+Detailed Cust. Ledg. Entry,Gen. Bus. Posting Group
+Detailed Cust. Ledg. Entry,Gen. Prod. Posting Group
+Detailed Cust. Ledg. Entry,Initial Document Type
+Detailed Cust. Ledg. Entry,Initial Entry Due Date
+Detailed Cust. Ledg. Entry,Initial Entry Global Dim. 1
+Detailed Cust. Ledg. Entry,Initial Entry Global Dim. 2
+Detailed Cust. Ledg. Entry,Journal Batch Name
+Detailed Cust. Ledg. Entry,Ledger Entry Amount
+Detailed Cust. Ledg. Entry,Max. Payment Tolerance
+Detailed Cust. Ledg. Entry,Posting Date
+Detailed Cust. Ledg. Entry,Posting Group
+Detailed Cust. Ledg. Entry,Reason Code
+Detailed Cust. Ledg. Entry,Remaining Pmt. Disc. Possible
+Detailed Cust. Ledg. Entry,Source Code
+Detailed Cust. Ledg. Entry,SystemCreatedAt
+Detailed Cust. Ledg. Entry,SystemModifiedAt
+Detailed Cust. Ledg. Entry,Tax Jurisdiction Code
+Detailed Cust. Ledg. Entry,Transaction No.
+Detailed Cust. Ledg. Entry,Unapplied
+Detailed Cust. Ledg. Entry,Unapplied by Entry No.
+Detailed Cust. Ledg. Entry,Use Tax
+Detailed Cust. Ledg. Entry,User ID
+Detailed Cust. Ledg. Entry,VAT Bus. Posting Group
+Detailed Cust. Ledg. Entry,VAT Prod. Posting Group
+Detailed Vendor Ledg. Entry,Amount
+Detailed Vendor Ledg. Entry,Amount (LCY)
+Detailed Vendor Ledg. Entry,Application No.
+Detailed Vendor Ledg. Entry,Applied Vend. Ledger Entry No.
+Detailed Vendor Ledg. Entry,Credit Amount
+Detailed Vendor Ledg. Entry,Credit Amount (LCY)
+Detailed Vendor Ledg. Entry,Currency Code
+Detailed Vendor Ledg. Entry,Debit Amount
+Detailed Vendor Ledg. Entry,Debit Amount (LCY)
+Detailed Vendor Ledg. Entry,Document No.
+Detailed Vendor Ledg. Entry,Document Type
+Detailed Vendor Ledg. Entry,Entry No.
+Detailed Vendor Ledg. Entry,Entry Type
+Detailed Vendor Ledg. Entry,Exch. Rate Adjmt. Reg. No.
+Detailed Vendor Ledg. Entry,Gen. Bus. Posting Group
+Detailed Vendor Ledg. Entry,Gen. Prod. Posting Group
+Detailed Vendor Ledg. Entry,Initial Document Type
+Detailed Vendor Ledg. Entry,Initial Entry Due Date
+Detailed Vendor Ledg. Entry,Initial Entry Global Dim. 1
+Detailed Vendor Ledg. Entry,Initial Entry Global Dim. 2
+Detailed Vendor Ledg. Entry,Journal Batch Name
+Detailed Vendor Ledg. Entry,Ledger Entry Amount
+Detailed Vendor Ledg. Entry,Max. Payment Tolerance
+Detailed Vendor Ledg. Entry,Posting Date
+Detailed Vendor Ledg. Entry,Posting Group
+Detailed Vendor Ledg. Entry,Reason Code
+Detailed Vendor Ledg. Entry,Remaining Pmt. Disc. Possible
+Detailed Vendor Ledg. Entry,Source Code
+Detailed Vendor Ledg. Entry,SystemCreatedAt
+Detailed Vendor Ledg. Entry,SystemModifiedAt
+Detailed Vendor Ledg. Entry,Tax Jurisdiction Code
+Detailed Vendor Ledg. Entry,Transaction No.
+Detailed Vendor Ledg. Entry,Unapplied
+Detailed Vendor Ledg. Entry,Unapplied by Entry No.
+Detailed Vendor Ledg. Entry,Use Tax
+Detailed Vendor Ledg. Entry,User ID
+Detailed Vendor Ledg. Entry,VAT Bus. Posting Group
+Detailed Vendor Ledg. Entry,VAT Prod. Posting Group
+Detailed Vendor Ledg. Entry,Vendor Ledger Entry No.
+Detailed Vendor Ledg. Entry,Vendor No.
+Dimension,Blocked
+Dimension,Code
+Dimension,Code Caption
+Dimension,Consolidation Code
+Dimension,Description
+Dimension,Filter Caption
+Dimension,Last Modified Date Time
+Dimension,Map-to IC Dimension Code
+Dimension,Name
+Dimension,SystemCreatedAt
+Dimension,SystemModifiedAt
+Dimension Value,Blocked
+Dimension Value,Code
+Dimension Value,Consolidation Code
+Dimension Value,Dimension Code
+Dimension Value,Dimension Value ID
+Dimension Value,Dimension Value Type
+Dimension Value,Global Dimension No.
+Dimension Value,Indentation
+Dimension Value,Last Modified Date Time
+Dimension Value,Map-to IC Dimension Code
+Dimension Value,Map-to IC Dimension Value Code
+Dimension Value,Name
+Dimension Value,SystemCreatedAt
+Dimension Value,SystemModifiedAt
+Dimension Value,Totaling
+Dimension Set Entry,Dimension Code
+Dimension Set Entry,Dimension Name
+Dimension Set Entry,Dimension Set ID
+Dimension Set Entry,Dimension Value Code
+Dimension Set Entry,Dimension Value ID
+Dimension Set Entry,Dimension Value Name
+Dimension Set Entry,Global Dimension No.
+Dimension Set Entry,SystemCreatedAt
+Dimension Set Entry,SystemModifiedAt
+G/L Account,Account Category
+G/L Account,Account Subcategory Entry No.
+G/L Account,Account Type
+G/L Account,Blocked
+G/L Account,Debit/Credit
+G/L Account,Income/Balance
+G/L Account,Indentation
+G/L Account,Name
+G/L Account,No.
+G/L Account,No. 2
+G/L Account,SystemCreatedAt
+G/L Account,SystemModifiedAt
+G/L Account Category,Account Category
+G/L Account Category,Description
+G/L Account Category,Entry No.
+G/L Account Category,Income/Balance
+G/L Account Category,Indentation
+G/L Account Category,Parent Entry No.
+G/L Account Category,Presentation Order
+G/L Account Category,Sibling Sequence No.
+G/L Account Category,SystemCreatedAt
+G/L Account Category,SystemModifiedAt
+G/L Budget Entry,Amount
+G/L Budget Entry,Budget Dimension 1 Code
+G/L Budget Entry,Budget Dimension 2 Code
+G/L Budget Entry,Budget Dimension 3 Code
+G/L Budget Entry,Budget Dimension 4 Code
+G/L Budget Entry,Budget Name
+G/L Budget Entry,Business Unit Code
+G/L Budget Entry,Date
+G/L Budget Entry,Description
+G/L Budget Entry,Dimension Set ID
+G/L Budget Entry,Entry No.
+G/L Budget Entry,G/L Account No.
+G/L Budget Entry,Global Dimension 1 Code
+G/L Budget Entry,Global Dimension 2 Code
+G/L Budget Entry,Last Date Modified
+G/L Budget Entry,SystemCreatedAt
+G/L Budget Entry,SystemModifiedAt
+G/L Budget Entry,User ID
+G/L Budget Name,Blocked
+G/L Budget Name,Budget Dimension 1 Code
+G/L Budget Name,Budget Dimension 2 Code
+G/L Budget Name,Budget Dimension 3 Code
+G/L Budget Name,Budget Dimension 4 Code
+G/L Budget Name,Description
+G/L Budget Name,Name
+G/L Budget Name,SystemCreatedAt
+G/L Budget Name,SystemModifiedAt
+G/L Entry,Add.-Currency Credit Amount
+G/L Entry,Add.-Currency Debit Amount
+G/L Entry,Additional-Currency Amount
+G/L Entry,Amount
+G/L Entry,Business Unit Code
+G/L Entry,Credit Amount
+G/L Entry,Debit Amount
+G/L Entry,Description
+G/L Entry,Dimension Set ID
+G/L Entry,Document Date
+G/L Entry,Document No.
+G/L Entry,Document Type
+G/L Entry,Entry No.
+G/L Entry,External Document No.
+G/L Entry,FA Entry No.
+G/L Entry,FA Entry Type
+G/L Entry,G/L Account No.
+G/L Entry,Gen. Bus. Posting Group
+G/L Entry,Gen. Posting Type
+G/L Entry,Gen. Prod. Posting Group
+G/L Entry,Global Dimension 1 Code
+G/L Entry,Global Dimension 2 Code
+G/L Entry,GST/HST
+G/L Entry,IC Partner Code
+G/L Entry,Job No.
+G/L Entry,Journal Batch Name
+G/L Entry,Journal Templ. Name
+G/L Entry,Posting Date
+G/L Entry,Prior-Year Entry
+G/L Entry,Prod. Order No.
+G/L Entry,Quantity
+G/L Entry,Reason Code
+G/L Entry,Reversed
+G/L Entry,Reversed by Entry No.
+G/L Entry,Reversed Entry No.
+G/L Entry,Source Code
+G/L Entry,Source Currency Amount
+G/L Entry,Source Currency Code
+G/L Entry,Source Currency VAT Amount
+G/L Entry,Source No.
+G/L Entry,Source Type
+G/L Entry,System-Created Entry
+G/L Entry,SystemCreatedAt
+G/L Entry,SystemModifiedAt
+G/L Entry,Tax Area Code
+G/L Entry,Tax Group Code
+G/L Entry,Tax Liable
+G/L Entry,Transaction No.
+G/L Entry,User ID
+G/L Entry,VAT Amount
+G/L Entry,VAT Bus. Posting Group
+G/L Entry,VAT Prod. Posting Group
+G/L Entry,VAT Reporting Date
+G/L Register,Creation Date
+G/L Register,Creation Time
+G/L Register,From Entry No.
+G/L Register,From VAT Entry No.
+G/L Register,Journal Batch Name
+G/L Register,Journal Templ. Name
+G/L Register,No.
+G/L Register,Reversed
+G/L Register,Source Code
+G/L Register,SystemCreatedAt
+G/L Register,SystemModifiedAt
+G/L Register,To Entry No.
+G/L Register,To VAT Entry No.
+G/L Register,User ID
+Item,Base Unit of Measure
+Item,Block Reason
+Item,Blocked
+Item,Costing Method
+Item,Country/Region of Origin Code
+Item,Country/Region Purchased Code
+Item,Critical
+Item,Description
+Item,Description 2
+Item,Discrete Order Quantity
+Item,Gen. Prod. Posting Group
+Item,Global Dimension 1 Code
+Item,Global Dimension 2 Code
+Item,Gross Weight
+Item,Inventory Posting Group
+Item,Item Category Code
+Item,Item Disc. Group
+Item,Item Tracking Code
+Item,Last Counting Period Update
+Item,Last Date Modified
+Item,Last DateTime Modified
+Item,Last Direct Cost
+Item,Last Time Modified
+Item,Last Unit Cost Calc. Date
+Item,Lot Size
+Item,Manufacturer Code
+Item,Manufacturing Policy
+Item,Maximum Inventory
+Item,Maximum Order Quantity
+Item,Minimum Order Quantity
+Item,Net Weight
+Item,Next Counting End Date
+Item,Next Counting Start Date
+Item,No.
+Item,No. 2
+Item,Order Multiple
+Item,Order Tracking Policy
+Item,Phys Invt Counting Period Code
+Item,Prevent Negative Inventory
+Item,Price Includes VAT
+Item,Price Unit Conversion
+Item,Price/Profit Calculation
+Item,Production BOM No.
+Item,Profit %
+Item,Purch. Unit of Measure
+Item,Purchasing Blocked
+Item,Purchasing Code
+Item,Reorder Point
+Item,Reorder Quantity
+Item,Reordering Policy
+Item,Replenishment System
+Item,Routing No.
+Item,Safety Stock Quantity
+Item,Sales Blocked
+Item,Sales Unit of Measure
+Item,SAT Hazardous Material
+Item,SAT Item Classification
+Item,SAT Material Type
+Item,SAT Packaging Type
+Item,Scrap %
+Item,Search Description
+Item,Serial Nos.
+Item,Service Blocked
+Item,Service Item Group
+Item,Shelf No.
+Item,Standard Cost
+Item,Statistics Group
+Item,SystemCreatedAt
+Item,SystemModifiedAt
+Item,Tariff No.
+Item,Tax Group Code
+Item,Type
+Item,Unit Cost
+Item,Unit List Price
+Item,Unit Price
+Item,Unit Volume
+Item,Units per Parcel
+Item,VAT Bus. Posting Gr. (Price)
+Item,VAT Prod. Posting Group
+Item,Vendor Item No.
+Item,Vendor No.
+Item,Warehouse Class Code
+Item Attribute,Blocked
+Item Attribute,ID
+Item Attribute,Name
+Item Attribute,SystemCreatedAt
+Item Attribute,SystemModifiedAt
+Item Attribute,Type
+Item Attribute,Unit of Measure
+Item Attribute Value,Attribute ID
+Item Attribute Value,ID
+Item Attribute Value,Value
+Item Attribute Value,Attribute Name
+Item Attribute Value,SystemModifiedAt
+Item Attribute Value,SystemModifiedBy
+Item Attribute Value Mapping,Item Attribute ID
+Item Attribute Value Mapping,Item Attribute Value ID
+Item Attribute Value Mapping,No.
+Item Attribute Value Mapping,Table ID
+Item Attribute Value Mapping,SystemCreatedAt
+Item Attribute Value Mapping,SystemModifiedAt
+Item Attribute Value Mapping,SystemModifiedBy
+Item Category,Code
+Item Category,Description
+Item Category,Has Children
+Item Category,Indentation
+Item Category,Last Modified Date Time
+Item Category,Parent Category
+Item Category,Presentation Order
+Item Category,SystemCreatedAt
+Item Category,SystemModifiedAt
+Item Ledger Entry,Applied Entry to Adjust
+Item Ledger Entry,Applies-to Entry
+Item Ledger Entry,Area
+Item Ledger Entry,Assemble to Order
+Item Ledger Entry,Completely Invoiced
+Item Ledger Entry,Correction
+Item Ledger Entry,Country/Region Code
+Item Ledger Entry,Derived from Blanket Order
+Item Ledger Entry,Description
+Item Ledger Entry,Dimension Set ID
+Item Ledger Entry,Document Date
+Item Ledger Entry,Document Line No.
+Item Ledger Entry,Document No.
+Item Ledger Entry,Document Type
+Item Ledger Entry,Drop Shipment
+Item Ledger Entry,Entry No.
+Item Ledger Entry,Entry Type
+Item Ledger Entry,Entry/Exit Point
+Item Ledger Entry,Expiration Date
+Item Ledger Entry,External Document No.
+Item Ledger Entry,Global Dimension 1 Code
+Item Ledger Entry,Global Dimension 2 Code
+Item Ledger Entry,Invoiced Quantity
+Item Ledger Entry,Item Category Code
+Item Ledger Entry,Item No.
+Item Ledger Entry,Item Reference No.
+Item Ledger Entry,Item Tracking
+Item Ledger Entry,Job No.
+Item Ledger Entry,Job Purchase
+Item Ledger Entry,Job Task No.
+Item Ledger Entry,Last Invoice Date
+Item Ledger Entry,Location Code
+Item Ledger Entry,Lot No.
+Item Ledger Entry,No. Series
+Item Ledger Entry,Nonstock
+Item Ledger Entry,Open
+Item Ledger Entry,Order Line No.
+Item Ledger Entry,Order No.
+Item Ledger Entry,Order Type
+Item Ledger Entry,Originally Ordered No.
+Item Ledger Entry,Originally Ordered Var. Code
+Item Ledger Entry,Out-of-Stock Substitution
+Item Ledger Entry,Package No.
+Item Ledger Entry,Positive
+Item Ledger Entry,Posting Date
+Item Ledger Entry,Prod. Order Comp. Line No.
+Item Ledger Entry,Purchasing Code
+Item Ledger Entry,Qty. per Unit of Measure
+Item Ledger Entry,Quantity
+Item Ledger Entry,Remaining Quantity
+Item Ledger Entry,Return Reason Code
+Item Ledger Entry,Serial No.
+Item Ledger Entry,Shipped Qty. Not Returned
+Item Ledger Entry,Shpt. Method Code
+Item Ledger Entry,Source No.
+Item Ledger Entry,Source Type
+Item Ledger Entry,SystemCreatedAt
+Item Ledger Entry,SystemModifiedAt
+Item Ledger Entry,Transaction Specification
+Item Ledger Entry,Transaction Type
+Item Ledger Entry,Transport Method
+Item Ledger Entry,Unit of Measure Code
+Item Ledger Entry,Variant Code
+Item Ledger Entry,Warranty Date
+Item Substitution,No.
+Item Substitution,Variant Code
+Item Substitution,Substitute No.
+Item Substitution,Substitute Variant Code
+Item Substitution,Description
+Item Substitution,Inventory
+Item Substitution,Interchangeable
+Item Substitution,Substitute Type
+Item Substitution,Sub. Item No.
+Item Substitution,Relations Level
+Item Variant,Blocked
+Item Variant,Code
+Item Variant,Description
+Item Variant,Description 2
+Item Variant,Item No.
+Item Variant,Purchasing Blocked
+Item Variant,Sales Blocked
+Item Variant,Service Blocked
+Item Variant,SystemCreatedAt
+Item Variant,SystemModifiedAt
+Item Vendor,Item No.
+Item Vendor,SystemCreatedAt
+Item Vendor,SystemModifiedAt
+Item Vendor,Variant Code
+Item Vendor,Vendor Item No.
+Item Vendor,Vendor No.
+Location,Address
+Location,Address 2
+Location,City
+Location,Code
+Location,Contact
+Location,Country/Region Code
+Location,County
+Location,E-Mail
+Location,Name
+Location,Name 2
+Location,Phone No.
+Location,Phone No. 2
+Location,Post Code
+Location,SystemCreatedAt
+Location,SystemModifiedAt
+Location,Use As In-Transit
+Phys. Inventory Ledger Entry,Amount
+Phys. Inventory Ledger Entry,Description
+Phys. Inventory Ledger Entry,Dimension Set ID
+Phys. Inventory Ledger Entry,Document Date
+Phys. Inventory Ledger Entry,Document No.
+Phys. Inventory Ledger Entry,Entry No.
+Phys. Inventory Ledger Entry,Entry Type
+Phys. Inventory Ledger Entry,External Document No.
+Phys. Inventory Ledger Entry,Global Dimension 1 Code
+Phys. Inventory Ledger Entry,Global Dimension 2 Code
+Phys. Inventory Ledger Entry,Inventory Posting Group
+Phys. Inventory Ledger Entry,Item No.
+Phys. Inventory Ledger Entry,Journal Batch Name
+Phys. Inventory Ledger Entry,Last Item Ledger Entry No.
+Phys. Inventory Ledger Entry,Location Code
+Phys. Inventory Ledger Entry,No. Series
+Phys. Inventory Ledger Entry,Phys Invt Counting Period Code
+Phys. Inventory Ledger Entry,Phys Invt Counting Period Type
+Phys. Inventory Ledger Entry,Posting Date
+Phys. Inventory Ledger Entry,Qty. (Calculated)
+Phys. Inventory Ledger Entry,Qty. (Phys. Inventory)
+Phys. Inventory Ledger Entry,Quantity
+Phys. Inventory Ledger Entry,Reason Code
+Phys. Inventory Ledger Entry,Salespers./Purch. Code
+Phys. Inventory Ledger Entry,Source Code
+Phys. Inventory Ledger Entry,SystemCreatedAt
+Phys. Inventory Ledger Entry,SystemModifiedAt
+Phys. Inventory Ledger Entry,Unit Amount
+Phys. Inventory Ledger Entry,Unit Cost
+Phys. Inventory Ledger Entry,Unit of Measure Code
+Phys. Inventory Ledger Entry,User ID
+Phys. Inventory Ledger Entry,Variant Code
+Purch. Cr. Memo Hdr.,Area
+Purch. Cr. Memo Hdr.,Buy-from Address
+Purch. Cr. Memo Hdr.,Buy-from Address 2
+Purch. Cr. Memo Hdr.,Buy-from City
+Purch. Cr. Memo Hdr.,Buy-from Contact
+Purch. Cr. Memo Hdr.,Buy-from Contact No.
+Purch. Cr. Memo Hdr.,Buy-from Country/Region Code
+Purch. Cr. Memo Hdr.,Buy-from County
+Purch. Cr. Memo Hdr.,Buy-from Post Code
+Purch. Cr. Memo Hdr.,Buy-from Vendor Name
+Purch. Cr. Memo Hdr.,Buy-from Vendor Name 2
+Purch. Cr. Memo Hdr.,Buy-from Vendor No.
+Purch. Cr. Memo Hdr.,Campaign No.
+Purch. Cr. Memo Hdr.,Correction
+Purch. Cr. Memo Hdr.,Currency Code
+Purch. Cr. Memo Hdr.,Currency Factor
+Purch. Cr. Memo Hdr.,Dimension Set ID
+Purch. Cr. Memo Hdr.,Document Date
+Purch. Cr. Memo Hdr.,Due Date
+Purch. Cr. Memo Hdr.,Entry Point
+Purch. Cr. Memo Hdr.,Expected Receipt Date
+Purch. Cr. Memo Hdr.,Gen. Bus. Posting Group
+Purch. Cr. Memo Hdr.,Invoice Disc. Code
+Purch. Cr. Memo Hdr.,Language Code
+Purch. Cr. Memo Hdr.,Location Code
+Purch. Cr. Memo Hdr.,No.
+Purch. Cr. Memo Hdr.,On Hold
+Purch. Cr. Memo Hdr.,Order Address Code
+Purch. Cr. Memo Hdr.,Payment Discount %
+Purch. Cr. Memo Hdr.,Payment Method Code
+Purch. Cr. Memo Hdr.,Payment Terms Code
+Purch. Cr. Memo Hdr.,Pay-to Address
+Purch. Cr. Memo Hdr.,Pay-to Address 2
+Purch. Cr. Memo Hdr.,Pay-to City
+Purch. Cr. Memo Hdr.,Pay-to Contact
+Purch. Cr. Memo Hdr.,Pay-to Contact No.
+Purch. Cr. Memo Hdr.,Pay-to Country/Region Code
+Purch. Cr. Memo Hdr.,Pay-to County
+Purch. Cr. Memo Hdr.,Pay-to Name
+Purch. Cr. Memo Hdr.,Pay-to Name 2
+Purch. Cr. Memo Hdr.,Pay-to Post Code
+Purch. Cr. Memo Hdr.,Pay-to Vendor No.
+Purch. Cr. Memo Hdr.,Pmt. Discount Date
+Purch. Cr. Memo Hdr.,Posting Date
+Purch. Cr. Memo Hdr.,Posting Description
+Purch. Cr. Memo Hdr.,Provincial Tax Area Code
+Purch. Cr. Memo Hdr.,Purchaser Code
+Purch. Cr. Memo Hdr.,Reason Code
+Purch. Cr. Memo Hdr.,Responsibility Center
+Purch. Cr. Memo Hdr.,Return Order No.
+Purch. Cr. Memo Hdr.,Sell-to Customer No.
+Purch. Cr. Memo Hdr.,Shipment Method Code
+Purch. Cr. Memo Hdr.,Ship-to Address
+Purch. Cr. Memo Hdr.,Ship-to Address 2
+Purch. Cr. Memo Hdr.,Ship-to City
+Purch. Cr. Memo Hdr.,Ship-to Code
+Purch. Cr. Memo Hdr.,Ship-to Contact
+Purch. Cr. Memo Hdr.,Ship-to Country/Region Code
+Purch. Cr. Memo Hdr.,Ship-to County
+Purch. Cr. Memo Hdr.,Ship-to Name
+Purch. Cr. Memo Hdr.,Ship-to Name 2
+Purch. Cr. Memo Hdr.,Ship-to Phone No.
+Purch. Cr. Memo Hdr.,Ship-to Post Code
+Purch. Cr. Memo Hdr.,Ship-to UPS Zone
+Purch. Cr. Memo Hdr.,Shortcut Dimension 1 Code
+Purch. Cr. Memo Hdr.,Shortcut Dimension 2 Code
+Purch. Cr. Memo Hdr.,Source Code
+Purch. Cr. Memo Hdr.,SystemCreatedAt
+Purch. Cr. Memo Hdr.,SystemModifiedAt
+Purch. Cr. Memo Hdr.,Tax Area Code
+Purch. Cr. Memo Hdr.,Tax Exemption No.
+Purch. Cr. Memo Hdr.,Tax Liable
+Purch. Cr. Memo Hdr.,Transaction Specification
+Purch. Cr. Memo Hdr.,Transaction Type
+Purch. Cr. Memo Hdr.,Transport Method
+Purch. Cr. Memo Hdr.,User ID
+Purch. Cr. Memo Hdr.,VAT Base Discount %
+Purch. Cr. Memo Hdr.,VAT Bus. Posting Group
+Purch. Cr. Memo Hdr.,VAT Country/Region Code
+Purch. Cr. Memo Hdr.,VAT Registration No.
+Purch. Cr. Memo Hdr.,VAT Reporting Date
+Purch. Cr. Memo Hdr.,Vendor Cr. Memo No.
+Purch. Cr. Memo Hdr.,Vendor Ledger Entry No.
+Purch. Cr. Memo Hdr.,Vendor Posting Group
+Purch. Cr. Memo Hdr.,Your Reference
+Purch. Cr. Memo Line,Amount
+Purch. Cr. Memo Line,Amount Including VAT
+Purch. Cr. Memo Line,Appl.-to Item Entry
+Purch. Cr. Memo Line,Area
+Purch. Cr. Memo Line,Bin Code
+Purch. Cr. Memo Line,Blanket Order Line No.
+Purch. Cr. Memo Line,Blanket Order No.
+Purch. Cr. Memo Line,Buy-from Vendor No.
+Purch. Cr. Memo Line,Deferral Code
+Purch. Cr. Memo Line,Description
+Purch. Cr. Memo Line,Description 2
+Purch. Cr. Memo Line,Dimension Set ID
+Purch. Cr. Memo Line,Direct Unit Cost
+Purch. Cr. Memo Line,Document No.
+Purch. Cr. Memo Line,Expected Receipt Date
+Purch. Cr. Memo Line,Gen. Bus. Posting Group
+Purch. Cr. Memo Line,Gen. Prod. Posting Group
+Purch. Cr. Memo Line,Gross Weight
+Purch. Cr. Memo Line,Indirect Cost %
+Purch. Cr. Memo Line,Inv. Discount Amount
+Purch. Cr. Memo Line,Item Category Code
+Purch. Cr. Memo Line,Job No.
+Purch. Cr. Memo Line,Line Amount
+Purch. Cr. Memo Line,Line Discount %
+Purch. Cr. Memo Line,Line Discount Amount
+Purch. Cr. Memo Line,Line No.
+Purch. Cr. Memo Line,Location Code
+Purch. Cr. Memo Line,Net Weight
+Purch. Cr. Memo Line,No.
+Purch. Cr. Memo Line,Nonstock
+Purch. Cr. Memo Line,Order Line No.
+Purch. Cr. Memo Line,Order No.
+Purch. Cr. Memo Line,Pay-to Vendor No.
+Purch. Cr. Memo Line,Pmt. Discount Amount
+Purch. Cr. Memo Line,Posting Date
+Purch. Cr. Memo Line,Posting Group
+Purch. Cr. Memo Line,Provincial Tax Area Code
+Purch. Cr. Memo Line,Purchasing Code
+Purch. Cr. Memo Line,Qty. per Unit of Measure
+Purch. Cr. Memo Line,Quantity
+Purch. Cr. Memo Line,Quantity (Base)
+Purch. Cr. Memo Line,Responsibility Center
+Purch. Cr. Memo Line,Return Reason Code
+Purch. Cr. Memo Line,Return Shipment Line No.
+Purch. Cr. Memo Line,Return Shipment No.
+Purch. Cr. Memo Line,Salvage Value
+Purch. Cr. Memo Line,Shortcut Dimension 1 Code
+Purch. Cr. Memo Line,Shortcut Dimension 2 Code
+Purch. Cr. Memo Line,SystemCreatedAt
+Purch. Cr. Memo Line,SystemModifiedAt
+Purch. Cr. Memo Line,Tax Area Code
+Purch. Cr. Memo Line,Tax Group Code
+Purch. Cr. Memo Line,Tax Liable
+Purch. Cr. Memo Line,Type
+Purch. Cr. Memo Line,Unit Cost
+Purch. Cr. Memo Line,Unit Cost (LCY)
+Purch. Cr. Memo Line,Unit of Measure
+Purch. Cr. Memo Line,Unit of Measure Code
+Purch. Cr. Memo Line,Unit Price (LCY)
+Purch. Cr. Memo Line,Unit Volume
+Purch. Cr. Memo Line,Units per Parcel
+Purch. Cr. Memo Line,Use Duplication List
+Purch. Cr. Memo Line,Use Tax
+Purch. Cr. Memo Line,Variant Code
+Purch. Cr. Memo Line,VAT %
+Purch. Cr. Memo Line,VAT Base Amount
+Purch. Cr. Memo Line,VAT Bus. Posting Group
+Purch. Cr. Memo Line,VAT Calculation Type
+Purch. Cr. Memo Line,VAT Difference
+Purch. Cr. Memo Line,VAT Identifier
+Purch. Cr. Memo Line,VAT Prod. Posting Group
+Purch. Cr. Memo Line,Vendor Item No.
+Purch. Inv. Header,Area
+Purch. Inv. Header,Buy-from Address
+Purch. Inv. Header,Buy-from Address 2
+Purch. Inv. Header,Buy-from City
+Purch. Inv. Header,Buy-from Contact
+Purch. Inv. Header,Buy-from Contact No.
+Purch. Inv. Header,Buy-from Country/Region Code
+Purch. Inv. Header,Buy-from County
+Purch. Inv. Header,Buy-from Post Code
+Purch. Inv. Header,Buy-from Vendor Name
+Purch. Inv. Header,Buy-from Vendor Name 2
+Purch. Inv. Header,Buy-from Vendor No.
+Purch. Inv. Header,Campaign No.
+Purch. Inv. Header,Correction
+Purch. Inv. Header,Creditor No.
+Purch. Inv. Header,Currency Code
+Purch. Inv. Header,Currency Factor
+Purch. Inv. Header,Dimension Set ID
+Purch. Inv. Header,Document Date
+Purch. Inv. Header,Due Date
+Purch. Inv. Header,Expected Receipt Date
+Purch. Inv. Header,Gen. Bus. Posting Group
+Purch. Inv. Header,Invoice Disc. Code
+Purch. Inv. Header,Language Code
+Purch. Inv. Header,Location Code
+Purch. Inv. Header,No.
+Purch. Inv. Header,On Hold
+Purch. Inv. Header,Order Address Code
+Purch. Inv. Header,Order Date
+Purch. Inv. Header,Order No.
+Purch. Inv. Header,Payment Discount %
+Purch. Inv. Header,Payment Method Code
+Purch. Inv. Header,Payment Reference
+Purch. Inv. Header,Payment Terms Code
+Purch. Inv. Header,Pay-to Address
+Purch. Inv. Header,Pay-to Address 2
+Purch. Inv. Header,Pay-to City
+Purch. Inv. Header,Pay-to Contact
+Purch. Inv. Header,Pay-to Contact No.
+Purch. Inv. Header,Pay-to Country/Region Code
+Purch. Inv. Header,Pay-to County
+Purch. Inv. Header,Pay-to Name
+Purch. Inv. Header,Pay-to Name 2
+Purch. Inv. Header,Pay-to Post Code
+Purch. Inv. Header,Pay-to Vendor No.
+Purch. Inv. Header,Pmt. Discount Date
+Purch. Inv. Header,Posting Date
+Purch. Inv. Header,Posting Description
+Purch. Inv. Header,Provincial Tax Area Code
+Purch. Inv. Header,Purchaser Code
+Purch. Inv. Header,Quote No.
+Purch. Inv. Header,Reason Code
+Purch. Inv. Header,Responsibility Center
+Purch. Inv. Header,Sell-to Customer No.
+Purch. Inv. Header,Shipment Method Code
+Purch. Inv. Header,Ship-to Address
+Purch. Inv. Header,Ship-to Address 2
+Purch. Inv. Header,Ship-to City
+Purch. Inv. Header,Ship-to Code
+Purch. Inv. Header,Ship-to Contact
+Purch. Inv. Header,Ship-to Country/Region Code
+Purch. Inv. Header,Ship-to County
+Purch. Inv. Header,Ship-to Name
+Purch. Inv. Header,Ship-to Name 2
+Purch. Inv. Header,Ship-to Phone No.
+Purch. Inv. Header,Ship-to Post Code
+Purch. Inv. Header,Ship-to UPS Zone
+Purch. Inv. Header,Shortcut Dimension 1 Code
+Purch. Inv. Header,Shortcut Dimension 2 Code
+Purch. Inv. Header,Source Code
+Purch. Inv. Header,SystemCreatedAt
+Purch. Inv. Header,SystemModifiedAt
+Purch. Inv. Header,Tax Area Code
+Purch. Inv. Header,Tax Exemption No.
+Purch. Inv. Header,Tax Liable
+Purch. Inv. Header,Transaction Specification
+Purch. Inv. Header,Transaction Type
+Purch. Inv. Header,Transport Method
+Purch. Inv. Header,User ID
+Purch. Inv. Header,VAT Base Discount %
+Purch. Inv. Header,VAT Bus. Posting Group
+Purch. Inv. Header,VAT Country/Region Code
+Purch. Inv. Header,VAT Registration No.
+Purch. Inv. Header,VAT Reporting Date
+Purch. Inv. Header,Vendor Invoice No.
+Purch. Inv. Header,Vendor Ledger Entry No.
+Purch. Inv. Header,Vendor Order No.
+Purch. Inv. Header,Vendor Posting Group
+Purch. Inv. Header,Your Reference
+Purch. Inv. Line,Amount
+Purch. Inv. Line,Amount Including VAT
+Purch. Inv. Line,Appl.-to Item Entry
+Purch. Inv. Line,Area
+Purch. Inv. Line,Attached to Line No.
+Purch. Inv. Line,Bin Code
+Purch. Inv. Line,Blanket Order Line No.
+Purch. Inv. Line,Blanket Order No.
+Purch. Inv. Line,Budgeted FA No.
+Purch. Inv. Line,Buy-from Vendor No.
+Purch. Inv. Line,Deferral Code
+Purch. Inv. Line,Description
+Purch. Inv. Line,Description 2
+Purch. Inv. Line,Dimension Set ID
+Purch. Inv. Line,Direct Unit Cost
+Purch. Inv. Line,Document No.
+Purch. Inv. Line,Expected Receipt Date
+Purch. Inv. Line,Gen. Bus. Posting Group
+Purch. Inv. Line,Gen. Prod. Posting Group
+Purch. Inv. Line,Gross Weight
+Purch. Inv. Line,Indirect Cost %
+Purch. Inv. Line,Insurance No.
+Purch. Inv. Line,Inv. Discount Amount
+Purch. Inv. Line,Item Category Code
+Purch. Inv. Line,Item Reference No.
+Purch. Inv. Line,Item Reference Type
+Purch. Inv. Line,Item Reference Type No.
+Purch. Inv. Line,Item Reference Unit of Measure
+Purch. Inv. Line,Job No.
+Purch. Inv. Line,Line Amount
+Purch. Inv. Line,Line Discount %
+Purch. Inv. Line,Line Discount Amount
+Purch. Inv. Line,Line No.
+Purch. Inv. Line,Location Code
+Purch. Inv. Line,Net Weight
+Purch. Inv. Line,No.
+Purch. Inv. Line,Nonstock
+Purch. Inv. Line,Operation No.
+Purch. Inv. Line,Order Line No.
+Purch. Inv. Line,Order No.
+Purch. Inv. Line,Overhead Rate
+Purch. Inv. Line,Pay-to Vendor No.
+Purch. Inv. Line,Pmt. Discount Amount
+Purch. Inv. Line,Posting Date
+Purch. Inv. Line,Posting Group
+Purch. Inv. Line,Provincial Tax Area Code
+Purch. Inv. Line,Purchasing Code
+Purch. Inv. Line,Qty. per Unit of Measure
+Purch. Inv. Line,Quantity
+Purch. Inv. Line,Quantity (Base)
+Purch. Inv. Line,Receipt Line No.
+Purch. Inv. Line,Receipt No.
+Purch. Inv. Line,Responsibility Center
+Purch. Inv. Line,Return Reason Code
+Purch. Inv. Line,Routing No.
+Purch. Inv. Line,Routing Reference No.
+Purch. Inv. Line,Salvage Value
+Purch. Inv. Line,Shortcut Dimension 1 Code
+Purch. Inv. Line,Shortcut Dimension 2 Code
+Purch. Inv. Line,System-Created Entry
+Purch. Inv. Line,SystemCreatedAt
+Purch. Inv. Line,SystemModifiedAt
+Purch. Inv. Line,Tax Area Code
+Purch. Inv. Line,Tax Group Code
+Purch. Inv. Line,Tax Liable
+Purch. Inv. Line,Transaction Specification
+Purch. Inv. Line,Transaction Type
+Purch. Inv. Line,Transport Method
+Purch. Inv. Line,Type
+Purch. Inv. Line,Unit Cost
+Purch. Inv. Line,Unit Cost (LCY)
+Purch. Inv. Line,Unit of Measure
+Purch. Inv. Line,Unit of Measure Code
+Purch. Inv. Line,Unit Price (LCY)
+Purch. Inv. Line,Unit Volume
+Purch. Inv. Line,Units per Parcel
+Purch. Inv. Line,Use Duplication List
+Purch. Inv. Line,Use Tax
+Purch. Inv. Line,Variant Code
+Purch. Inv. Line,VAT %
+Purch. Inv. Line,VAT Base Amount
+Purch. Inv. Line,VAT Bus. Posting Group
+Purch. Inv. Line,VAT Calculation Type
+Purch. Inv. Line,VAT Difference
+Purch. Inv. Line,VAT Identifier
+Purch. Inv. Line,VAT Prod. Posting Group
+Purch. Inv. Line,Vendor Item No.
+Purch. Inv. Line,Work Center No.
+Purch. Rcpt. Header,Area
+Purch. Rcpt. Header,Buy-from Address
+Purch. Rcpt. Header,Buy-from Address 2
+Purch. Rcpt. Header,Buy-from City
+Purch. Rcpt. Header,Buy-from Contact
+Purch. Rcpt. Header,Buy-from Contact No.
+Purch. Rcpt. Header,Buy-from Country/Region Code
+Purch. Rcpt. Header,Buy-from County
+Purch. Rcpt. Header,Buy-from Post Code
+Purch. Rcpt. Header,Buy-from Vendor Name
+Purch. Rcpt. Header,Buy-from Vendor Name 2
+Purch. Rcpt. Header,Buy-from Vendor No.
+Purch. Rcpt. Header,Campaign No.
+Purch. Rcpt. Header,Correction
+Purch. Rcpt. Header,Currency Code
+Purch. Rcpt. Header,Currency Factor
+Purch. Rcpt. Header,Dimension Set ID
+Purch. Rcpt. Header,Document Date
+Purch. Rcpt. Header,Due Date
+Purch. Rcpt. Header,Entry Point
+Purch. Rcpt. Header,Expected Receipt Date
+Purch. Rcpt. Header,Gen. Bus. Posting Group
+Purch. Rcpt. Header,Invoice Disc. Code
+Purch. Rcpt. Header,Language Code
+Purch. Rcpt. Header,Location Code
+Purch. Rcpt. Header,No.
+Purch. Rcpt. Header,No. Printed
+Purch. Rcpt. Header,On Hold
+Purch. Rcpt. Header,Order Address Code
+Purch. Rcpt. Header,Order Date
+Purch. Rcpt. Header,Order No.
+Purch. Rcpt. Header,Order No. Series
+Purch. Rcpt. Header,Payment Discount %
+Purch. Rcpt. Header,Payment Method Code
+Purch. Rcpt. Header,Payment Terms Code
+Purch. Rcpt. Header,Pay-to Address
+Purch. Rcpt. Header,Pay-to Address 2
+Purch. Rcpt. Header,Pay-to City
+Purch. Rcpt. Header,Pay-to Contact
+Purch. Rcpt. Header,Pay-to Contact No.
+Purch. Rcpt. Header,Pay-to Country/Region Code
+Purch. Rcpt. Header,Pay-to County
+Purch. Rcpt. Header,Pay-to Name
+Purch. Rcpt. Header,Pay-to Name 2
+Purch. Rcpt. Header,Pay-to Post Code
+Purch. Rcpt. Header,Pay-to Vendor No.
+Purch. Rcpt. Header,Pmt. Discount Date
+Purch. Rcpt. Header,Posting Date
+Purch. Rcpt. Header,Posting Description
+Purch. Rcpt. Header,Promised Receipt Date
+Purch. Rcpt. Header,Purchaser Code
+Purch. Rcpt. Header,Quote No.
+Purch. Rcpt. Header,Reason Code
+Purch. Rcpt. Header,Requested Receipt Date
+Purch. Rcpt. Header,Responsibility Center
+Purch. Rcpt. Header,Sell-to Customer No.
+Purch. Rcpt. Header,Shipment Method Code
+Purch. Rcpt. Header,Ship-to Address
+Purch. Rcpt. Header,Ship-to Address 2
+Purch. Rcpt. Header,Ship-to City
+Purch. Rcpt. Header,Ship-to Code
+Purch. Rcpt. Header,Ship-to Contact
+Purch. Rcpt. Header,Ship-to Country/Region Code
+Purch. Rcpt. Header,Ship-to County
+Purch. Rcpt. Header,Ship-to Name
+Purch. Rcpt. Header,Ship-to Name 2
+Purch. Rcpt. Header,Ship-to Phone No.
+Purch. Rcpt. Header,Ship-to Post Code
+Purch. Rcpt. Header,Ship-to UPS Zone
+Purch. Rcpt. Header,Shortcut Dimension 1 Code
+Purch. Rcpt. Header,Shortcut Dimension 2 Code
+Purch. Rcpt. Header,Source Code
+Purch. Rcpt. Header,SystemCreatedAt
+Purch. Rcpt. Header,SystemModifiedAt
+Purch. Rcpt. Header,Tax Area Code
+Purch. Rcpt. Header,Tax Liable
+Purch. Rcpt. Header,Transaction Specification
+Purch. Rcpt. Header,Transaction Type
+Purch. Rcpt. Header,Transport Method
+Purch. Rcpt. Header,User ID
+Purch. Rcpt. Header,VAT Base Discount %
+Purch. Rcpt. Header,VAT Bus. Posting Group
+Purch. Rcpt. Header,VAT Country/Region Code
+Purch. Rcpt. Header,VAT Registration No.
+Purch. Rcpt. Header,Vendor Order No.
+Purch. Rcpt. Header,Vendor Posting Group
+Purch. Rcpt. Header,Vendor Shipment No.
+Purch. Rcpt. Header,Your Reference
+Purch. Rcpt. Line,Appl.-to Item Entry
+Purch. Rcpt. Line,Area
+Purch. Rcpt. Line,Attached to Line No.
+Purch. Rcpt. Line,Bin Code
+Purch. Rcpt. Line,Blanket Order Line No.
+Purch. Rcpt. Line,Blanket Order No.
+Purch. Rcpt. Line,Budgeted FA No.
+Purch. Rcpt. Line,Buy-from Vendor No.
+Purch. Rcpt. Line,Correction
+Purch. Rcpt. Line,Description
+Purch. Rcpt. Line,Description 2
+Purch. Rcpt. Line,Dimension Set ID
+Purch. Rcpt. Line,Direct Unit Cost
+Purch. Rcpt. Line,Document No.
+Purch. Rcpt. Line,Expected Receipt Date
+Purch. Rcpt. Line,Gen. Bus. Posting Group
+Purch. Rcpt. Line,Gen. Prod. Posting Group
+Purch. Rcpt. Line,Gross Weight
+Purch. Rcpt. Line,Indirect Cost %
+Purch. Rcpt. Line,Insurance No.
+Purch. Rcpt. Line,Item Category Code
+Purch. Rcpt. Line,Item Charge Base Amount
+Purch. Rcpt. Line,Item Reference No.
+Purch. Rcpt. Line,Item Reference Type
+Purch. Rcpt. Line,Item Reference Type No.
+Purch. Rcpt. Line,Item Reference Unit of Measure
+Purch. Rcpt. Line,Job No.
+Purch. Rcpt. Line,Line Discount %
+Purch. Rcpt. Line,Line No.
+Purch. Rcpt. Line,Location Code
+Purch. Rcpt. Line,Net Weight
+Purch. Rcpt. Line,No.
+Purch. Rcpt. Line,Nonstock
+Purch. Rcpt. Line,Operation No.
+Purch. Rcpt. Line,Order Date
+Purch. Rcpt. Line,Order Line No.
+Purch. Rcpt. Line,Order No.
+Purch. Rcpt. Line,Overhead Rate
+Purch. Rcpt. Line,Over-Receipt Code 2
+Purch. Rcpt. Line,Over-Receipt Quantity
+Purch. Rcpt. Line,Pay-to Vendor No.
+Purch. Rcpt. Line,Planned Receipt Date
+Purch. Rcpt. Line,Posting Date
+Purch. Rcpt. Line,Posting Group
+Purch. Rcpt. Line,Promised Receipt Date
+Purch. Rcpt. Line,Purchasing Code
+Purch. Rcpt. Line,Qty. Invoiced (Base)
+Purch. Rcpt. Line,Qty. per Unit of Measure
+Purch. Rcpt. Line,Qty. Rcd. Not Invoiced
+Purch. Rcpt. Line,Quantity
+Purch. Rcpt. Line,Quantity (Base)
+Purch. Rcpt. Line,Quantity Invoiced
+Purch. Rcpt. Line,Requested Receipt Date
+Purch. Rcpt. Line,Responsibility Center
+Purch. Rcpt. Line,Return Reason Code
+Purch. Rcpt. Line,Routing No.
+Purch. Rcpt. Line,Routing Reference No.
+Purch. Rcpt. Line,Sales Order Line No.
+Purch. Rcpt. Line,Sales Order No.
+Purch. Rcpt. Line,Salvage Value
+Purch. Rcpt. Line,Shortcut Dimension 1 Code
+Purch. Rcpt. Line,Shortcut Dimension 2 Code
+Purch. Rcpt. Line,SystemCreatedAt
+Purch. Rcpt. Line,SystemModifiedAt
+Purch. Rcpt. Line,Tax Area Code
+Purch. Rcpt. Line,Tax Group Code
+Purch. Rcpt. Line,Tax Liable
+Purch. Rcpt. Line,Transaction Specification
+Purch. Rcpt. Line,Transaction Type
+Purch. Rcpt. Line,Transport Method
+Purch. Rcpt. Line,Type
+Purch. Rcpt. Line,Unit Cost
+Purch. Rcpt. Line,Unit Cost (LCY)
+Purch. Rcpt. Line,Unit of Measure
+Purch. Rcpt. Line,Unit of Measure Code
+Purch. Rcpt. Line,Unit Price (LCY)
+Purch. Rcpt. Line,Unit Volume
+Purch. Rcpt. Line,Units per Parcel
+Purch. Rcpt. Line,Use Duplication List
+Purch. Rcpt. Line,Use Tax
+Purch. Rcpt. Line,Variant Code
+Purch. Rcpt. Line,VAT %
+Purch. Rcpt. Line,VAT Base Amount
+Purch. Rcpt. Line,VAT Bus. Posting Group
+Purch. Rcpt. Line,VAT Calculation Type
+Purch. Rcpt. Line,VAT Prod. Posting Group
+Purch. Rcpt. Line,Vendor Item No.
+Purch. Rcpt. Line,Work Center No.
+Purchase Header,Area
+Purchase Header,Assigned User ID
+Purchase Header,Buy-from Address
+Purchase Header,Buy-from Address 2
+Purchase Header,Buy-from City
+Purchase Header,Buy-from Contact
+Purchase Header,Buy-from Contact No.
+Purchase Header,Buy-from Country/Region Code
+Purchase Header,Buy-from County
+Purchase Header,Buy-from IC Partner Code
+Purchase Header,Buy-from Post Code
+Purchase Header,Buy-from Vendor Name
+Purchase Header,Buy-from Vendor Name 2
+Purchase Header,Buy-from Vendor No.
+Purchase Header,Campaign No.
+Purchase Header,Correction
+Purchase Header,Creditor No.
+Purchase Header,Currency Code
+Purchase Header,Currency Factor
+Purchase Header,Dimension Set ID
+Purchase Header,Document Date
+Purchase Header,Document Type
+Purchase Header,Due Date
+Purchase Header,Entry Point
+Purchase Header,Expected Receipt Date
+Purchase Header,Gen. Bus. Posting Group
+Purchase Header,Invoice Disc. Code
+Purchase Header,Invoice Received Date
+Purchase Header,Language Code
+Purchase Header,Location Code
+Purchase Header,No.
+Purchase Header,No. Printed
+Purchase Header,On Hold
+Purchase Header,Order Address Code
+Purchase Header,Order Class
+Purchase Header,Order Date
+Purchase Header,Payment Discount %
+Purchase Header,Payment Method Code
+Purchase Header,Payment Reference
+Purchase Header,Payment Terms Code
+Purchase Header,Pay-to Address
+Purchase Header,Pay-to Address 2
+Purchase Header,Pay-to City
+Purchase Header,Pay-to Contact
+Purchase Header,Pay-to Contact No.
+Purchase Header,Pay-to Country/Region Code
+Purchase Header,Pay-to County
+Purchase Header,Pay-to IC Partner Code
+Purchase Header,Pay-to Name
+Purchase Header,Pay-to Name 2
+Purchase Header,Pay-to Post Code
+Purchase Header,Pay-to Vendor No.
+Purchase Header,Pmt. Discount Date
+Purchase Header,Posting Date
+Purchase Header,Posting Description
+Purchase Header,Posting from Whse. Ref.
+Purchase Header,Posting No.
+Purchase Header,Promised Receipt Date
+Purchase Header,Provincial Tax Area Code
+Purchase Header,Purchaser Code
+Purchase Header,Quote No.
+Purchase Header,Reason Code
+Purchase Header,Requested Receipt Date
+Purchase Header,Responsibility Center
+Purchase Header,Return Shipment No.
+Purchase Header,Sell-to Customer No.
+Purchase Header,Shipment Method Code
+Purchase Header,Ship-to Address
+Purchase Header,Ship-to Address 2
+Purchase Header,Ship-to City
+Purchase Header,Ship-to Code
+Purchase Header,Ship-to Contact
+Purchase Header,Ship-to Country/Region Code
+Purchase Header,Ship-to County
+Purchase Header,Ship-to Name
+Purchase Header,Ship-to Name 2
+Purchase Header,Ship-to Phone No.
+Purchase Header,Ship-to Post Code
+Purchase Header,Ship-to UPS Zone
+Purchase Header,Shortcut Dimension 1 Code
+Purchase Header,Shortcut Dimension 2 Code
+Purchase Header,Status
+Purchase Header,SystemCreatedAt
+Purchase Header,SystemModifiedAt
+Purchase Header,Tax Area Code
+Purchase Header,Tax Exemption No.
+Purchase Header,Tax Liable
+Purchase Header,Transaction Specification
+Purchase Header,Transaction Type
+Purchase Header,Transport Method
+Purchase Header,VAT Base Discount %
+Purchase Header,VAT Bus. Posting Group
+Purchase Header,VAT Country/Region Code
+Purchase Header,VAT Registration No.
+Purchase Header,VAT Reporting Date
+Purchase Header,Vendor Authorization No.
+Purchase Header,Vendor Cr. Memo No.
+Purchase Header,Vendor Invoice No.
+Purchase Header,Vendor Order No.
+Purchase Header,Vendor Posting Group
+Purchase Header,Vendor Shipment No.
+Purchase Header,Your Reference
+Purchase Line,Amount
+Purchase Line,Amount Including VAT
+Purchase Line,Appl.-to Item Entry
+Purchase Line,Area
+Purchase Line,Attached to Line No.
+Purchase Line,Bin Code
+Purchase Line,Blanket Order Line No.
+Purchase Line,Blanket Order No.
+Purchase Line,Budgeted FA No.
+Purchase Line,Buy-from Vendor No.
+Purchase Line,Completely Received
+Purchase Line,Currency Code
+Purchase Line,Deferral Code
+Purchase Line,Description
+Purchase Line,Description 2
+Purchase Line,Dimension Set ID
+Purchase Line,Direct Unit Cost
+Purchase Line,Document No.
+Purchase Line,Document Type
+Purchase Line,Drop Shipment
+Purchase Line,Gen. Bus. Posting Group
+Purchase Line,Gen. Prod. Posting Group
+Purchase Line,Gross Weight
+Purchase Line,GST/HST
+Purchase Line,Indirect Cost %
+Purchase Line,Insurance No.
+Purchase Line,Inv. Discount Amount
+Purchase Line,Item Category Code
+Purchase Line,Item Reference No.
+Purchase Line,Item Reference Type
+Purchase Line,Item Reference Type No.
+Purchase Line,Item Reference Unit of Measure
+Purchase Line,Job No.
+Purchase Line,Line Amount
+Purchase Line,Line Discount %
+Purchase Line,Line Discount Amount
+Purchase Line,Line No.
+Purchase Line,Location Code
+Purchase Line,Net Weight
+Purchase Line,No.
+Purchase Line,Nonstock
+Purchase Line,Operation No.
+Purchase Line,Order Date
+Purchase Line,Order Line No.
+Purchase Line,Order No.
+Purchase Line,Outstanding Amount
+Purchase Line,Outstanding Amount (LCY)
+Purchase Line,Outstanding Amt. Ex. VAT (LCY)
+Purchase Line,Outstanding Qty. (Base)
+Purchase Line,Outstanding Quantity
+Purchase Line,Overhead Rate
+Purchase Line,Over-Receipt Code
+Purchase Line,Over-Receipt Quantity
+Purchase Line,Pay-to Vendor No.
+Purchase Line,Planned Receipt Date
+Purchase Line,Planning Flexibility
+Purchase Line,Pmt. Discount Amount
+Purchase Line,Posting Group
+Purchase Line,Promised Receipt Date
+Purchase Line,Provincial Tax Area Code
+Purchase Line,Purchasing Code
+Purchase Line,Qty. Invoiced (Base)
+Purchase Line,Qty. per Unit of Measure
+Purchase Line,Qty. Rcd. Not Invoiced
+Purchase Line,Qty. Rcd. Not Invoiced (Base)
+Purchase Line,Qty. Received (Base)
+Purchase Line,Qty. to Invoice
+Purchase Line,Qty. to Invoice (Base)
+Purchase Line,Qty. to Receive
+Purchase Line,Qty. to Receive (Base)
+Purchase Line,Quantity
+Purchase Line,Quantity (Base)
+Purchase Line,Quantity Invoiced
+Purchase Line,Quantity Received
+Purchase Line,Receipt Line No.
+Purchase Line,Receipt No.
+Purchase Line,Requested Receipt Date
+Purchase Line,Responsibility Center
+Purchase Line,Return Reason Code
+Purchase Line,Return Shipment Line No.
+Purchase Line,Return Shipment No.
+Purchase Line,Return Shpd. Not Invd.
+Purchase Line,Return Shpd. Not Invd. (LCY)
+Purchase Line,Returns Deferral Start Date
+Purchase Line,Routing No.
+Purchase Line,Routing Reference No.
+Purchase Line,Sales Order Line No.
+Purchase Line,Sales Order No.
+Purchase Line,Salvage Value
+Purchase Line,Shortcut Dimension 1 Code
+Purchase Line,Shortcut Dimension 2 Code
+Purchase Line,System-Created Entry
+Purchase Line,SystemCreatedAt
+Purchase Line,SystemModifiedAt
+Purchase Line,Tax Area Code
+Purchase Line,Tax Group Code
+Purchase Line,Tax Liable
+Purchase Line,Transaction Specification
+Purchase Line,Transaction Type
+Purchase Line,Transport Method
+Purchase Line,Type
+Purchase Line,Unit Cost
+Purchase Line,Unit Cost (LCY)
+Purchase Line,Unit of Measure
+Purchase Line,Unit of Measure Code
+Purchase Line,Unit Price (LCY)
+Purchase Line,Unit Volume
+Purchase Line,Units per Parcel
+Purchase Line,Use Duplication List
+Purchase Line,Use Tax
+Purchase Line,Variant Code
+Purchase Line,VAT %
+Purchase Line,VAT Base Amount
+Purchase Line,VAT Bus. Posting Group
+Purchase Line,VAT Calculation Type
+Purchase Line,VAT Difference
+Purchase Line,VAT Identifier
+Purchase Line,VAT Prod. Posting Group
+Purchase Line,Vendor Item No.
+Purchase Line,Work Center No.
+Sales Cr.Memo Header,Alt. Gen. Bus Posting Group
+Sales Cr.Memo Header,Alt. VAT Bus Posting Group
+Sales Cr.Memo Header,Alt. VAT Registration No.
+Sales Cr.Memo Header,Applies-to Doc. No.
+Sales Cr.Memo Header,Applies-to Doc. Type
+Sales Cr.Memo Header,Area
+Sales Cr.Memo Header,Bal. Account No.
+Sales Cr.Memo Header,Bal. Account Type
+Sales Cr.Memo Header,Bill-to Address
+Sales Cr.Memo Header,Bill-to Address 2
+Sales Cr.Memo Header,Bill-to City
+Sales Cr.Memo Header,Bill-to Contact
+Sales Cr.Memo Header,Bill-to Contact No.
+Sales Cr.Memo Header,Bill-to Country/Region Code
+Sales Cr.Memo Header,Bill-to County
+Sales Cr.Memo Header,Bill-to Customer No.
+Sales Cr.Memo Header,Bill-to Name
+Sales Cr.Memo Header,Bill-to Name 2
+Sales Cr.Memo Header,Bill-to Post Code
+Sales Cr.Memo Header,Campaign No.
+Sales Cr.Memo Header,Certificate Serial No.
+Sales Cr.Memo Header,Correction
+Sales Cr.Memo Header,Currency Code
+Sales Cr.Memo Header,Currency Factor
+Sales Cr.Memo Header,Cust. Ledger Entry No.
+Sales Cr.Memo Header,Customer Disc. Group
+Sales Cr.Memo Header,Customer Posting Group
+Sales Cr.Memo Header,Customer Price Group
+Sales Cr.Memo Header,Dimension Set ID
+Sales Cr.Memo Header,Document Date
+Sales Cr.Memo Header,Due Date
+Sales Cr.Memo Header,Electronic Document Sent
+Sales Cr.Memo Header,Electronic Document Status
+Sales Cr.Memo Header,Error Code
+Sales Cr.Memo Header,Error Description
+Sales Cr.Memo Header,Exchange Rate USD
+Sales Cr.Memo Header,Exit Point
+Sales Cr.Memo Header,External Document No.
+Sales Cr.Memo Header,Gen. Bus. Posting Group
+Sales Cr.Memo Header,Invoice Disc. Code
+Sales Cr.Memo Header,Language Code
+Sales Cr.Memo Header,Location Code
+Sales Cr.Memo Header,No.
+Sales Cr.Memo Header,Opportunity No.
+Sales Cr.Memo Header,Payment Discount %
+Sales Cr.Memo Header,Payment Method Code
+Sales Cr.Memo Header,Payment Terms Code
+Sales Cr.Memo Header,Pmt. Discount Date
+Sales Cr.Memo Header,Posting Date
+Sales Cr.Memo Header,Posting Description
+Sales Cr.Memo Header,Prepayment Order No.
+Sales Cr.Memo Header,Prices Including VAT
+Sales Cr.Memo Header,Reason Code
+Sales Cr.Memo Header,Responsibility Center
+Sales Cr.Memo Header,Return Order No.
+Sales Cr.Memo Header,Salesperson Code
+Sales Cr.Memo Header,Sell-to Address
+Sales Cr.Memo Header,Sell-to Address 2
+Sales Cr.Memo Header,Sell-to City
+Sales Cr.Memo Header,Sell-to Contact
+Sales Cr.Memo Header,Sell-to Contact No.
+Sales Cr.Memo Header,Sell-to Country/Region Code
+Sales Cr.Memo Header,Sell-to County
+Sales Cr.Memo Header,Sell-to Customer Name
+Sales Cr.Memo Header,Sell-to Customer Name 2
+Sales Cr.Memo Header,Sell-to Customer No.
+Sales Cr.Memo Header,Sell-to E-Mail
+Sales Cr.Memo Header,Sell-to Phone No.
+Sales Cr.Memo Header,Sell-to Post Code
+Sales Cr.Memo Header,Shipment Date
+Sales Cr.Memo Header,Shipment Method Code
+Sales Cr.Memo Header,Shipping Agent Code
+Sales Cr.Memo Header,Shipping Agent Service Code
+Sales Cr.Memo Header,Ship-to Address
+Sales Cr.Memo Header,Ship-to Address 2
+Sales Cr.Memo Header,Ship-to City
+Sales Cr.Memo Header,Ship-to Code
+Sales Cr.Memo Header,Ship-to Contact
+Sales Cr.Memo Header,Ship-to Country/Region Code
+Sales Cr.Memo Header,Ship-to County
+Sales Cr.Memo Header,Ship-to Name
+Sales Cr.Memo Header,Ship-to Name 2
+Sales Cr.Memo Header,Ship-to Phone No.
+Sales Cr.Memo Header,Ship-to Post Code
+Sales Cr.Memo Header,Ship-to UPS Zone
+Sales Cr.Memo Header,Source Code
+Sales Cr.Memo Header,SystemCreatedAt
+Sales Cr.Memo Header,SystemModifiedAt
+Sales Cr.Memo Header,Tax Area Code
+Sales Cr.Memo Header,Tax Exemption No.
+Sales Cr.Memo Header,Tax Liable
+Sales Cr.Memo Header,Transaction Type
+Sales Cr.Memo Header,Transport Method
+Sales Cr.Memo Header,User ID
+Sales Cr.Memo Header,VAT Base Discount %
+Sales Cr.Memo Header,VAT Bus. Posting Group
+Sales Cr.Memo Header,VAT Country/Region Code
+Sales Cr.Memo Header,VAT Registration No.
+Sales Cr.Memo Header,VAT Reporting Date
+Sales Cr.Memo Header,Your Reference
+Sales Cr.Memo Line,Amount
+Sales Cr.Memo Line,Amount Including VAT
+Sales Cr.Memo Line,Appl.-from Item Entry
+Sales Cr.Memo Line,Appl.-to Item Entry
+Sales Cr.Memo Line,Area
+Sales Cr.Memo Line,Attached to Line No.
+Sales Cr.Memo Line,Bill-to Customer No.
+Sales Cr.Memo Line,Bin Code
+Sales Cr.Memo Line,Blanket Order Line No.
+Sales Cr.Memo Line,Blanket Order No.
+Sales Cr.Memo Line,Customer Disc. Group
+Sales Cr.Memo Line,Customer Price Group
+Sales Cr.Memo Line,Description
+Sales Cr.Memo Line,Description 2
+Sales Cr.Memo Line,Dimension Set ID
+Sales Cr.Memo Line,Document No.
+Sales Cr.Memo Line,Gen. Bus. Posting Group
+Sales Cr.Memo Line,Gen. Prod. Posting Group
+Sales Cr.Memo Line,Gross Weight
+Sales Cr.Memo Line,Inv. Discount Amount
+Sales Cr.Memo Line,Item Category Code
+Sales Cr.Memo Line,Item Reference No.
+Sales Cr.Memo Line,Item Reference Type
+Sales Cr.Memo Line,Item Reference Type No.
+Sales Cr.Memo Line,Item Reference Unit of Measure
+Sales Cr.Memo Line,Job No.
+Sales Cr.Memo Line,Job Task No.
+Sales Cr.Memo Line,Line Amount
+Sales Cr.Memo Line,Line Discount %
+Sales Cr.Memo Line,Line Discount Amount
+Sales Cr.Memo Line,Line No.
+Sales Cr.Memo Line,Location Code
+Sales Cr.Memo Line,Net Weight
+Sales Cr.Memo Line,No.
+Sales Cr.Memo Line,Nonstock
+Sales Cr.Memo Line,Order Line No.
+Sales Cr.Memo Line,Order No.
+Sales Cr.Memo Line,Pmt. Discount Amount
+Sales Cr.Memo Line,Posting Date
+Sales Cr.Memo Line,Posting Group
+Sales Cr.Memo Line,Prepayment Line
+Sales Cr.Memo Line,Price Calculation Method
+Sales Cr.Memo Line,Purchasing Code
+Sales Cr.Memo Line,Qty. per Unit of Measure
+Sales Cr.Memo Line,Quantity
+Sales Cr.Memo Line,Quantity (Base)
+Sales Cr.Memo Line,Responsibility Center
+Sales Cr.Memo Line,Return Reason Code
+Sales Cr.Memo Line,Return Receipt Line No.
+Sales Cr.Memo Line,Return Receipt No.
+Sales Cr.Memo Line,Sell-to Customer No.
+Sales Cr.Memo Line,Shipment Date
+Sales Cr.Memo Line,Shortcut Dimension 1 Code
+Sales Cr.Memo Line,Shortcut Dimension 2 Code
+Sales Cr.Memo Line,System-Created Entry
+Sales Cr.Memo Line,SystemCreatedAt
+Sales Cr.Memo Line,SystemModifiedAt
+Sales Cr.Memo Line,Tax Area Code
+Sales Cr.Memo Line,Tax Category
+Sales Cr.Memo Line,Tax Group Code
+Sales Cr.Memo Line,Tax Liable
+Sales Cr.Memo Line,Transaction Specification
+Sales Cr.Memo Line,Transaction Type
+Sales Cr.Memo Line,Transport Method
+Sales Cr.Memo Line,Type
+Sales Cr.Memo Line,Unit Cost
+Sales Cr.Memo Line,Unit Cost (LCY)
+Sales Cr.Memo Line,Unit of Measure
+Sales Cr.Memo Line,Unit of Measure Code
+Sales Cr.Memo Line,Unit Price
+Sales Cr.Memo Line,Unit Volume
+Sales Cr.Memo Line,Units per Parcel
+Sales Cr.Memo Line,Use Duplication List
+Sales Cr.Memo Line,Variant Code
+Sales Cr.Memo Line,VAT %
+Sales Cr.Memo Line,VAT Base Amount
+Sales Cr.Memo Line,VAT Bus. Posting Group
+Sales Cr.Memo Line,VAT Calculation Type
+Sales Cr.Memo Line,VAT Clause Code
+Sales Cr.Memo Line,VAT Difference
+Sales Cr.Memo Line,VAT Identifier
+Sales Cr.Memo Line,VAT Prod. Posting Group
+Sales Cr.Memo Line,Work Type Code
+Sales Header,Alt. Gen. Bus Posting Group
+Sales Header,Alt. VAT Bus Posting Group
+Sales Header,Alt. VAT Registration No.
+Sales Header,Applies-to Doc. No.
+Sales Header,Applies-to Doc. Type
+Sales Header,Applies-to ID
+Sales Header,Area
+Sales Header,Assigned User ID
+Sales Header,Bal. Account No.
+Sales Header,Bal. Account Type
+Sales Header,Bill-to Address
+Sales Header,Bill-to Address 2
+Sales Header,Bill-to City
+Sales Header,Bill-to Contact
+Sales Header,Bill-to Contact No.
+Sales Header,Bill-to Country/Region Code
+Sales Header,Bill-to County
+Sales Header,Bill-to Customer No.
+Sales Header,Bill-to Name
+Sales Header,Bill-to Name 2
+Sales Header,Bill-to Post Code
+Sales Header,Campaign No.
+Sales Header,Correction
+Sales Header,Currency Code
+Sales Header,Currency Factor
+Sales Header,Customer Disc. Group
+Sales Header,Customer Posting Group
+Sales Header,Customer Price Group
+Sales Header,Dimension Set ID
+Sales Header,Document Date
+Sales Header,Document Type
+Sales Header,Due Date
+Sales Header,Exchange Rate USD
+Sales Header,Exit Point
+Sales Header,External Document No.
+Sales Header,Gen. Bus. Posting Group
+Sales Header,Insurer Name
+Sales Header,Insurer Policy Number
+Sales Header,Invoice Disc. Code
+Sales Header,Invoice Discount Calculation
+Sales Header,Invoice Discount Value
+Sales Header,Language Code
+Sales Header,Location Code
+Sales Header,No.
+Sales Header,Opportunity No.
+Sales Header,Order Class
+Sales Header,Order Date
+Sales Header,Payment Discount %
+Sales Header,Payment Method Code
+Sales Header,Payment Terms Code
+Sales Header,Pmt. Discount Date
+Sales Header,Posting Date
+Sales Header,Posting Description
+Sales Header,Posting No.
+Sales Header,Prepayment No.
+Sales Header,Prepmt. Cr. Memo No.
+Sales Header,Prices Including VAT
+Sales Header,Promised Delivery Date
+Sales Header,Quote Accepted
+Sales Header,Quote Accepted Date
+Sales Header,Quote No.
+Sales Header,Quote Sent to Customer
+Sales Header,Quote Valid Until Date
+Sales Header,Reason Code
+Sales Header,Receive
+Sales Header,Requested Delivery Date
+Sales Header,Responsibility Center
+Sales Header,Return Receipt No.
+Sales Header,Sales Tax Amount Rounding
+Sales Header,Salesperson Code
+Sales Header,Sell-to Address
+Sales Header,Sell-to Address 2
+Sales Header,Sell-to City
+Sales Header,Sell-to Contact
+Sales Header,Sell-to Contact No.
+Sales Header,Sell-to Country/Region Code
+Sales Header,Sell-to County
+Sales Header,Sell-to Customer Name
+Sales Header,Sell-to Customer Name 2
+Sales Header,Sell-to Customer No.
+Sales Header,Sell-to E-Mail
+Sales Header,Sell-to IC Partner Code
+Sales Header,Sell-to Phone No.
+Sales Header,Sell-to Post Code
+Sales Header,Send IC Document
+Sales Header,Ship
+Sales Header,Shipment Date
+Sales Header,Shipment Method Code
+Sales Header,Shipping Advice
+Sales Header,Shipping Agent Code
+Sales Header,Shipping Agent Service Code
+Sales Header,Shipping No.
+Sales Header,Shipping No. Series
+Sales Header,Ship-to Address
+Sales Header,Ship-to Address 2
+Sales Header,Ship-to City
+Sales Header,Ship-to Code
+Sales Header,Ship-to Contact
+Sales Header,Ship-to Country/Region Code
+Sales Header,Ship-to County
+Sales Header,Ship-to Name
+Sales Header,Ship-to Name 2
+Sales Header,Ship-to Phone No.
+Sales Header,Ship-to Post Code
+Sales Header,Ship-to UPS Zone
+Sales Header,Status
+Sales Header,SystemCreatedAt
+Sales Header,SystemModifiedAt
+Sales Header,Tax Area Code
+Sales Header,Tax Exemption No.
+Sales Header,Tax Liable
+Sales Header,Transaction Type
+Sales Header,Transport Method
+Sales Header,VAT Base Discount %
+Sales Header,VAT Bus. Posting Group
+Sales Header,VAT Country/Region Code
+Sales Header,VAT Registration No.
+Sales Header,VAT Reporting Date
+Sales Header,Vehicle Code
+Sales Header,Your Reference
+Sales Invoice Header,Alt. Gen. Bus Posting Group
+Sales Invoice Header,Alt. VAT Bus Posting Group
+Sales Invoice Header,Alt. VAT Registration No.
+Sales Invoice Header,Applies-to Doc. No.
+Sales Invoice Header,Applies-to Doc. Type
+Sales Invoice Header,Area
+Sales Invoice Header,Bal. Account No.
+Sales Invoice Header,Bal. Account Type
+Sales Invoice Header,Bill-to Address
+Sales Invoice Header,Bill-to Address 2
+Sales Invoice Header,Bill-to City
+Sales Invoice Header,Bill-to Contact
+Sales Invoice Header,Bill-to Contact No.
+Sales Invoice Header,Bill-to Country/Region Code
+Sales Invoice Header,Bill-to County
+Sales Invoice Header,Bill-to Customer No.
+Sales Invoice Header,Bill-to Name
+Sales Invoice Header,Bill-to Name 2
+Sales Invoice Header,Bill-to Post Code
+Sales Invoice Header,Campaign No.
+Sales Invoice Header,Certificate Serial No.
+Sales Invoice Header,Correction
+Sales Invoice Header,Currency Code
+Sales Invoice Header,Currency Factor
+Sales Invoice Header,Cust. Ledger Entry No.
+Sales Invoice Header,Customer Disc. Group
+Sales Invoice Header,Customer Posting Group
+Sales Invoice Header,Customer Price Group
+Sales Invoice Header,Dimension Set ID
+Sales Invoice Header,Document Date
+Sales Invoice Header,Due Date
+Sales Invoice Header,Electronic Document Sent
+Sales Invoice Header,Electronic Document Status
+Sales Invoice Header,Error Code
+Sales Invoice Header,Error Description
+Sales Invoice Header,Exchange Rate USD
+Sales Invoice Header,Exit Point
+Sales Invoice Header,External Document No.
+Sales Invoice Header,Gen. Bus. Posting Group
+Sales Invoice Header,Invoice Disc. Code
+Sales Invoice Header,Invoice Discount Calculation
+Sales Invoice Header,Invoice Discount Value
+Sales Invoice Header,Language Code
+Sales Invoice Header,Location Code
+Sales Invoice Header,No.
+Sales Invoice Header,Opportunity No.
+Sales Invoice Header,Order Date
+Sales Invoice Header,Order No.
+Sales Invoice Header,Payment Discount %
+Sales Invoice Header,Payment Method Code
+Sales Invoice Header,Payment Reference
+Sales Invoice Header,Payment Terms Code
+Sales Invoice Header,Pmt. Discount Date
+Sales Invoice Header,Posting Date
+Sales Invoice Header,Posting Description
+Sales Invoice Header,Prepayment Order No.
+Sales Invoice Header,Prices Including VAT
+Sales Invoice Header,Promised Pay Date
+Sales Invoice Header,Quote No.
+Sales Invoice Header,Reason Code
+Sales Invoice Header,Responsibility Center
+Sales Invoice Header,Salesperson Code
+Sales Invoice Header,Sell-to Address
+Sales Invoice Header,Sell-to Address 2
+Sales Invoice Header,Sell-to City
+Sales Invoice Header,Sell-to Contact
+Sales Invoice Header,Sell-to Contact No.
+Sales Invoice Header,Sell-to Country/Region Code
+Sales Invoice Header,Sell-to County
+Sales Invoice Header,Sell-to Customer Name
+Sales Invoice Header,Sell-to Customer Name 2
+Sales Invoice Header,Sell-to Customer No.
+Sales Invoice Header,Sell-to E-Mail
+Sales Invoice Header,Sell-to Phone No.
+Sales Invoice Header,Sell-to Post Code
+Sales Invoice Header,Shipment Date
+Sales Invoice Header,Shipment Method Code
+Sales Invoice Header,Shipping Agent Code
+Sales Invoice Header,Shipping Agent Service Code
+Sales Invoice Header,Ship-to Address
+Sales Invoice Header,Ship-to Address 2
+Sales Invoice Header,Ship-to City
+Sales Invoice Header,Ship-to Code
+Sales Invoice Header,Ship-to Contact
+Sales Invoice Header,Ship-to Country/Region Code
+Sales Invoice Header,Ship-to County
+Sales Invoice Header,Ship-to Name
+Sales Invoice Header,Ship-to Name 2
+Sales Invoice Header,Ship-to Phone No.
+Sales Invoice Header,Ship-to Post Code
+Sales Invoice Header,Ship-to UPS Zone
+Sales Invoice Header,Source Code
+Sales Invoice Header,SystemCreatedAt
+Sales Invoice Header,SystemModifiedAt
+Sales Invoice Header,Tax Area Code
+Sales Invoice Header,Tax Exemption No.
+Sales Invoice Header,Tax Liable
+Sales Invoice Header,Transaction Type
+Sales Invoice Header,Transport Method
+Sales Invoice Header,User ID
+Sales Invoice Header,VAT Base Discount %
+Sales Invoice Header,VAT Bus. Posting Group
+Sales Invoice Header,VAT Country/Region Code
+Sales Invoice Header,VAT Registration No.
+Sales Invoice Header,VAT Reporting Date
+Sales Invoice Header,Your Reference
+Sales Invoice Line,Amount
+Sales Invoice Line,Amount Including VAT
+Sales Invoice Line,Appl.-from Item Entry
+Sales Invoice Line,Appl.-to Item Entry
+Sales Invoice Line,Area
+Sales Invoice Line,Attached to Line No.
+Sales Invoice Line,Bill-to Customer No.
+Sales Invoice Line,Bin Code
+Sales Invoice Line,Blanket Order Line No.
+Sales Invoice Line,Blanket Order No.
+Sales Invoice Line,Custom Transit Number
+Sales Invoice Line,Customer Disc. Group
+Sales Invoice Line,Customer Price Group
+Sales Invoice Line,Description
+Sales Invoice Line,Description 2
+Sales Invoice Line,Dimension Set ID
+Sales Invoice Line,Document No.
+Sales Invoice Line,Drop Shipment
+Sales Invoice Line,Gen. Bus. Posting Group
+Sales Invoice Line,Gen. Prod. Posting Group
+Sales Invoice Line,Gross Weight
+Sales Invoice Line,Inv. Discount Amount
+Sales Invoice Line,Item Category Code
+Sales Invoice Line,Item Reference No.
+Sales Invoice Line,Item Reference Type
+Sales Invoice Line,Item Reference Type No.
+Sales Invoice Line,Item Reference Unit of Measure
+Sales Invoice Line,Job No.
+Sales Invoice Line,Job Task No.
+Sales Invoice Line,Line Amount
+Sales Invoice Line,Line Discount %
+Sales Invoice Line,Line Discount Amount
+Sales Invoice Line,Line No.
+Sales Invoice Line,Location Code
+Sales Invoice Line,Net Weight
+Sales Invoice Line,No.
+Sales Invoice Line,Nonstock
+Sales Invoice Line,Order Line No.
+Sales Invoice Line,Order No.
+Sales Invoice Line,Pmt. Discount Amount
+Sales Invoice Line,Posting Date
+Sales Invoice Line,Posting Group
+Sales Invoice Line,Prepayment Line
+Sales Invoice Line,Price Calculation Method
+Sales Invoice Line,Price description
+Sales Invoice Line,Purchasing Code
+Sales Invoice Line,Qty. per Unit of Measure
+Sales Invoice Line,Quantity
+Sales Invoice Line,Quantity (Base)
+Sales Invoice Line,Responsibility Center
+Sales Invoice Line,Return Reason Code
+Sales Invoice Line,Sell-to Customer No.
+Sales Invoice Line,Shipment Date
+Sales Invoice Line,Shipment Line No.
+Sales Invoice Line,Shipment No.
+Sales Invoice Line,Shortcut Dimension 1 Code
+Sales Invoice Line,Shortcut Dimension 2 Code
+Sales Invoice Line,System-Created Entry
+Sales Invoice Line,SystemCreatedAt
+Sales Invoice Line,SystemModifiedAt
+Sales Invoice Line,Tax Area Code
+Sales Invoice Line,Tax Category
+Sales Invoice Line,Tax Group Code
+Sales Invoice Line,Tax Liable
+Sales Invoice Line,Transaction Specification
+Sales Invoice Line,Transaction Type
+Sales Invoice Line,Transport Method
+Sales Invoice Line,Type
+Sales Invoice Line,Unit Cost
+Sales Invoice Line,Unit Cost (LCY)
+Sales Invoice Line,Unit of Measure
+Sales Invoice Line,Unit of Measure Code
+Sales Invoice Line,Unit Price
+Sales Invoice Line,Unit Volume
+Sales Invoice Line,Units per Parcel
+Sales Invoice Line,Use Duplication List
+Sales Invoice Line,Variant Code
+Sales Invoice Line,VAT %
+Sales Invoice Line,VAT Base Amount
+Sales Invoice Line,VAT Bus. Posting Group
+Sales Invoice Line,VAT Calculation Type
+Sales Invoice Line,VAT Clause Code
+Sales Invoice Line,VAT Difference
+Sales Invoice Line,VAT Identifier
+Sales Invoice Line,VAT Prod. Posting Group
+Sales Invoice Line,Work Type Code
+Sales Line,Amount
+Sales Line,Amount Including VAT
+Sales Line,Appl.-from Item Entry
+Sales Line,Appl.-to Item Entry
+Sales Line,Area
+Sales Line,Attached to Line No.
+Sales Line,Bill-to Customer No.
+Sales Line,Bin Code
+Sales Line,Blanket Order Line No.
+Sales Line,Blanket Order No.
+Sales Line,BOM Item No.
+Sales Line,Completely Shipped
+Sales Line,Currency Code
+Sales Line,Custom Transit Number
+Sales Line,Customer Disc. Group
+Sales Line,Customer Price Group
+Sales Line,Description
+Sales Line,Description 2
+Sales Line,Dimension Set ID
+Sales Line,Document No.
+Sales Line,Document Type
+Sales Line,Drop Shipment
+Sales Line,Gen. Bus. Posting Group
+Sales Line,Gen. Prod. Posting Group
+Sales Line,Gross Weight
+Sales Line,Inv. Discount Amount
+Sales Line,Item Category Code
+Sales Line,Item Reference No.
+Sales Line,Item Reference Type
+Sales Line,Item Reference Type No.
+Sales Line,Item Reference Unit of Measure
+Sales Line,Job No.
+Sales Line,Job Task No.
+Sales Line,Line Amount
+Sales Line,Line Discount %
+Sales Line,Line Discount Amount
+Sales Line,Line No.
+Sales Line,Location Code
+Sales Line,Net Weight
+Sales Line,No.
+Sales Line,Nonstock
+Sales Line,Outstanding Amount
+Sales Line,Outstanding Amount (LCY)
+Sales Line,Outstanding Qty. (Base)
+Sales Line,Outstanding Quantity
+Sales Line,Planned
+Sales Line,Planned Delivery Date
+Sales Line,Planned Shipment Date
+Sales Line,Pmt. Discount Amount
+Sales Line,Posting Group
+Sales Line,Prepayment %
+Sales Line,Prepayment Amount
+Sales Line,Prepayment Line
+Sales Line,Prepayment Tax Area Code
+Sales Line,Prepayment Tax Group Code
+Sales Line,Prepayment Tax Liable
+Sales Line,Prepayment VAT %
+Sales Line,Prepayment VAT Difference
+Sales Line,Prepayment VAT Identifier
+Sales Line,Prepmt Amt Deducted
+Sales Line,Prepmt Amt to Deduct
+Sales Line,Prepmt VAT Diff. Deducted
+Sales Line,Prepmt VAT Diff. to Deduct
+Sales Line,Prepmt. Amount Inv. (LCY)
+Sales Line,Prepmt. Amount Inv. Incl. VAT
+Sales Line,Prepmt. Amt. Incl. VAT
+Sales Line,Prepmt. Amt. Inv.
+Sales Line,Prepmt. Line Amount
+Sales Line,Prepmt. Pmt. Discount Amount
+Sales Line,Prepmt. VAT Amount Inv. (LCY)
+Sales Line,Prepmt. VAT Base Amt.
+Sales Line,Prepmt. VAT Calc. Type
+Sales Line,Price Calculation Method
+Sales Line,Price description
+Sales Line,Profit %
+Sales Line,Promised Delivery Date
+Sales Line,Purch. Order Line No.
+Sales Line,Purchase Order No.
+Sales Line,Purchasing Code
+Sales Line,Qty. Invoiced (Base)
+Sales Line,Qty. per Unit of Measure
+Sales Line,Qty. Rounding Precision
+Sales Line,Qty. Rounding Precision (Base)
+Sales Line,Qty. Shipped (Base)
+Sales Line,Qty. Shipped Not Invd. (Base)
+Sales Line,Qty. Shipped Not Invoiced
+Sales Line,Qty. to Asm. to Order (Base)
+Sales Line,Qty. to Assemble to Order
+Sales Line,Qty. to Invoice
+Sales Line,Qty. to Invoice (Base)
+Sales Line,Qty. to Ship
+Sales Line,Qty. to Ship (Base)
+Sales Line,Quantity
+Sales Line,Quantity (Base)
+Sales Line,Quantity Invoiced
+Sales Line,Quantity Shipped
+Sales Line,Recalculate Invoice Disc.
+Sales Line,Requested Delivery Date
+Sales Line,Reserve
+Sales Line,Responsibility Center
+Sales Line,Return Qty. Received
+Sales Line,Return Qty. Received (Base)
+Sales Line,Return Qty. to Receive
+Sales Line,Return Qty. to Receive (Base)
+Sales Line,Return Rcd. Not Invd.
+Sales Line,Return Rcd. Not Invd. (LCY)
+Sales Line,Return Reason Code
+Sales Line,Return Receipt Line No.
+Sales Line,Return Receipt No.
+Sales Line,Returns Deferral Start Date
+Sales Line,Sell-to Customer No.
+Sales Line,Shipment Date
+Sales Line,Shipment Line No.
+Sales Line,Shipment No.
+Sales Line,Shipped Not Inv. (LCY) No VAT
+Sales Line,Shipped Not Invoiced
+Sales Line,Shipped Not Invoiced (LCY)
+Sales Line,Shipping Agent Code
+Sales Line,Shipping Agent Service Code
+Sales Line,Shortcut Dimension 1 Code
+Sales Line,Shortcut Dimension 2 Code
+Sales Line,System-Created Entry
+Sales Line,SystemCreatedAt
+Sales Line,SystemModifiedAt
+Sales Line,Tax Area Code
+Sales Line,Tax Category
+Sales Line,Tax Group Code
+Sales Line,Tax Liable
+Sales Line,Transaction Specification
+Sales Line,Transaction Type
+Sales Line,Transport Method
+Sales Line,Type
+Sales Line,Unit Cost
+Sales Line,Unit Cost (LCY)
+Sales Line,Unit of Measure
+Sales Line,Unit of Measure Code
+Sales Line,Unit Price
+Sales Line,Unit Volume
+Sales Line,Units per Parcel
+Sales Line,Use Duplication List
+Sales Line,Variant Code
+Sales Line,VAT %
+Sales Line,VAT Base Amount
+Sales Line,VAT Bus. Posting Group
+Sales Line,VAT Calculation Type
+Sales Line,VAT Clause Code
+Sales Line,VAT Difference
+Sales Line,VAT Identifier
+Sales Line,VAT Prod. Posting Group
+Sales Line,Work Type Code
+Sales Shipment Header,Applies-to Doc. No.
+Sales Shipment Header,Applies-to Doc. Type
+Sales Shipment Header,Area
+Sales Shipment Header,Bal. Account No.
+Sales Shipment Header,Bal. Account Type
+Sales Shipment Header,Bill-to Address
+Sales Shipment Header,Bill-to Address 2
+Sales Shipment Header,Bill-to City
+Sales Shipment Header,Bill-to Contact
+Sales Shipment Header,Bill-to Contact No.
+Sales Shipment Header,Bill-to Country/Region Code
+Sales Shipment Header,Bill-to County
+Sales Shipment Header,Bill-to Customer No.
+Sales Shipment Header,Bill-to Name
+Sales Shipment Header,Bill-to Name 2
+Sales Shipment Header,Bill-to Post Code
+Sales Shipment Header,Campaign No.
+Sales Shipment Header,Certificate Serial No.
+Sales Shipment Header,Correction
+Sales Shipment Header,Currency Code
+Sales Shipment Header,Currency Factor
+Sales Shipment Header,Customer Disc. Group
+Sales Shipment Header,Customer Posting Group
+Sales Shipment Header,Customer Price Group
+Sales Shipment Header,Dimension Set ID
+Sales Shipment Header,Document Date
+Sales Shipment Header,Due Date
+Sales Shipment Header,Electronic Document Status
+Sales Shipment Header,Error Code
+Sales Shipment Header,Error Description
+Sales Shipment Header,Exchange Rate USD
+Sales Shipment Header,Exit Point
+Sales Shipment Header,External Document No.
+Sales Shipment Header,Gen. Bus. Posting Group
+Sales Shipment Header,Insurer Name
+Sales Shipment Header,Insurer Policy Number
+Sales Shipment Header,Invoice Disc. Code
+Sales Shipment Header,Language Code
+Sales Shipment Header,Location Code
+Sales Shipment Header,No.
+Sales Shipment Header,Opportunity No.
+Sales Shipment Header,Order Date
+Sales Shipment Header,Order No.
+Sales Shipment Header,Payment Discount %
+Sales Shipment Header,Payment Method Code
+Sales Shipment Header,Payment Terms Code
+Sales Shipment Header,Pmt. Discount Date
+Sales Shipment Header,Posting Date
+Sales Shipment Header,Posting Description
+Sales Shipment Header,Price Calculation Method
+Sales Shipment Header,Prices Including VAT
+Sales Shipment Header,Promised Delivery Date
+Sales Shipment Header,Quote No.
+Sales Shipment Header,Reason Code
+Sales Shipment Header,Requested Delivery Date
+Sales Shipment Header,Responsibility Center
+Sales Shipment Header,Salesperson Code
+Sales Shipment Header,Sell-to Address
+Sales Shipment Header,Sell-to Address 2
+Sales Shipment Header,Sell-to City
+Sales Shipment Header,Sell-to Contact
+Sales Shipment Header,Sell-to Contact No.
+Sales Shipment Header,Sell-to Country/Region Code
+Sales Shipment Header,Sell-to County
+Sales Shipment Header,Sell-to Customer Name
+Sales Shipment Header,Sell-to Customer Name 2
+Sales Shipment Header,Sell-to Customer No.
+Sales Shipment Header,Sell-to E-Mail
+Sales Shipment Header,Sell-to Phone No.
+Sales Shipment Header,Sell-to Post Code
+Sales Shipment Header,Shipment Date
+Sales Shipment Header,Shipment Method Code
+Sales Shipment Header,Shipping Agent Code
+Sales Shipment Header,Shipping Agent Service Code
+Sales Shipment Header,Ship-to Address
+Sales Shipment Header,Ship-to Address 2
+Sales Shipment Header,Ship-to City
+Sales Shipment Header,Ship-to Code
+Sales Shipment Header,Ship-to Contact
+Sales Shipment Header,Ship-to Country/Region Code
+Sales Shipment Header,Ship-to County
+Sales Shipment Header,Ship-to Name
+Sales Shipment Header,Ship-to Name 2
+Sales Shipment Header,Ship-to Phone No.
+Sales Shipment Header,Ship-to Post Code
+Sales Shipment Header,Ship-to UPS Zone
+Sales Shipment Header,Source Code
+Sales Shipment Header,SystemCreatedAt
+Sales Shipment Header,SystemModifiedAt
+Sales Shipment Header,Tax Area Code
+Sales Shipment Header,Tax Liable
+Sales Shipment Header,Transaction Type
+Sales Shipment Header,Transport Method
+Sales Shipment Header,User ID
+Sales Shipment Header,VAT Base Discount %
+Sales Shipment Header,VAT Bus. Posting Group
+Sales Shipment Header,VAT Country/Region Code
+Sales Shipment Header,VAT Registration No.
+Sales Shipment Header,Vehicle Code
+Sales Shipment Header,Your Reference
+Sales Shipment Line,Appl.-from Item Entry
+Sales Shipment Line,Appl.-to Item Entry
+Sales Shipment Line,Area
+Sales Shipment Line,Attached to Line No.
+Sales Shipment Line,Bill-to Customer No.
+Sales Shipment Line,Bin Code
+Sales Shipment Line,Blanket Order Line No.
+Sales Shipment Line,Blanket Order No.
+Sales Shipment Line,Correction
+Sales Shipment Line,Custom Transit Number
+Sales Shipment Line,Customer Disc. Group
+Sales Shipment Line,Customer Price Group
+Sales Shipment Line,Description
+Sales Shipment Line,Description 2
+Sales Shipment Line,Dimension Set ID
+Sales Shipment Line,Document No.
+Sales Shipment Line,Drop Shipment
+Sales Shipment Line,Gen. Bus. Posting Group
+Sales Shipment Line,Gen. Prod. Posting Group
+Sales Shipment Line,Gross Weight
+Sales Shipment Line,Item Category Code
+Sales Shipment Line,Item Reference No.
+Sales Shipment Line,Item Reference Type
+Sales Shipment Line,Item Reference Type No.
+Sales Shipment Line,Item Reference Unit of Measure
+Sales Shipment Line,Item Shpt. Entry No.
+Sales Shipment Line,Job No.
+Sales Shipment Line,Job Task No.
+Sales Shipment Line,Line Discount %
+Sales Shipment Line,Line No.
+Sales Shipment Line,Location Code
+Sales Shipment Line,Net Weight
+Sales Shipment Line,No.
+Sales Shipment Line,Nonstock
+Sales Shipment Line,Order Line No.
+Sales Shipment Line,Order No.
+Sales Shipment Line,Planned Delivery Date
+Sales Shipment Line,Planned Shipment Date
+Sales Shipment Line,Posting Date
+Sales Shipment Line,Posting Group
+Sales Shipment Line,Price Calculation Method
+Sales Shipment Line,Promised Delivery Date
+Sales Shipment Line,Purch. Order Line No.
+Sales Shipment Line,Purchase Order No.
+Sales Shipment Line,Purchasing Code
+Sales Shipment Line,Qty. Invoiced (Base)
+Sales Shipment Line,Qty. per Unit of Measure
+Sales Shipment Line,Qty. Shipped Not Invoiced
+Sales Shipment Line,Quantity
+Sales Shipment Line,Quantity (Base)
+Sales Shipment Line,Quantity Invoiced
+Sales Shipment Line,Requested Delivery Date
+Sales Shipment Line,Responsibility Center
+Sales Shipment Line,Return Reason Code
+Sales Shipment Line,Sell-to Customer No.
+Sales Shipment Line,Shipment Date
+Sales Shipment Line,Shortcut Dimension 1 Code
+Sales Shipment Line,Shortcut Dimension 2 Code
+Sales Shipment Line,SystemCreatedAt
+Sales Shipment Line,SystemModifiedAt
+Sales Shipment Line,Tax Area Code
+Sales Shipment Line,Tax Group Code
+Sales Shipment Line,Tax Liable
+Sales Shipment Line,Transaction Specification
+Sales Shipment Line,Transaction Type
+Sales Shipment Line,Transport Method
+Sales Shipment Line,Type
+Sales Shipment Line,Unit Cost
+Sales Shipment Line,Unit Cost (LCY)
+Sales Shipment Line,Unit of Measure
+Sales Shipment Line,Unit of Measure Code
+Sales Shipment Line,Unit Price
+Sales Shipment Line,Unit Volume
+Sales Shipment Line,Units per Parcel
+Sales Shipment Line,Use Duplication List
+Sales Shipment Line,Variant Code
+Sales Shipment Line,VAT %
+Sales Shipment Line,VAT Base Amount
+Sales Shipment Line,VAT Bus. Posting Group
+Sales Shipment Line,VAT Calculation Type
+Sales Shipment Line,VAT Prod. Posting Group
+Sales Shipment Line,Work Type Code
+Salesperson/Purchaser,Blocked
+Salesperson/Purchaser,Code
+Salesperson/Purchaser,Commission %
+Salesperson/Purchaser,E-Mail
+Salesperson/Purchaser,E-Mail 2
+Salesperson/Purchaser,Global Dimension 1 Code
+Salesperson/Purchaser,Global Dimension 2 Code
+Salesperson/Purchaser,Job Title
+Salesperson/Purchaser,Name
+Salesperson/Purchaser,Phone No.
+Salesperson/Purchaser,Privacy Blocked
+Salesperson/Purchaser,Search E-Mail
+Salesperson/Purchaser,SystemCreatedAt
+Salesperson/Purchaser,SystemModifiedAt
+Value Entry,Adjustment
+Value Entry,Applies-to Entry
+Value Entry,Average Cost Exception
+Value Entry,Capacity Ledger Entry No.
+Value Entry,Cost Amount (Actual)
+Value Entry,Cost Amount (Actual) (ACY)
+Value Entry,Cost Amount (Expected)
+Value Entry,Cost Amount (Expected) (ACY)
+Value Entry,Cost Amount (Non-Invtbl.)
+Value Entry,Cost Amount (Non-Invtbl.)(ACY)
+Value Entry,Cost per Unit
+Value Entry,Cost per Unit (ACY)
+Value Entry,Cost Posted to G/L
+Value Entry,Cost Posted to G/L (ACY)
+Value Entry,Description
+Value Entry,Dimension Set ID
+Value Entry,Discount Amount
+Value Entry,Document Date
+Value Entry,Document Line No.
+Value Entry,Document No.
+Value Entry,Document Type
+Value Entry,Drop Shipment
+Value Entry,Entry No.
+Value Entry,Entry Type
+Value Entry,Exp. Cost Posted to G/L (ACY)
+Value Entry,Expected Cost
+Value Entry,Expected Cost Posted to G/L
+Value Entry,External Document No.
+Value Entry,Gen. Bus. Posting Group
+Value Entry,Gen. Prod. Posting Group
+Value Entry,Global Dimension 1 Code
+Value Entry,Global Dimension 2 Code
+Value Entry,Inventoriable
+Value Entry,Inventory Posting Group
+Value Entry,Invoiced Quantity
+Value Entry,Item Charge No.
+Value Entry,Item Ledger Entry No.
+Value Entry,Item Ledger Entry Quantity
+Value Entry,Item Ledger Entry Type
+Value Entry,Item No.
+Value Entry,Job Ledger Entry No.
+Value Entry,Job No.
+Value Entry,Job Task No.
+Value Entry,Journal Batch Name
+Value Entry,Location Code
+Value Entry,No.
+Value Entry,Order Line No.
+Value Entry,Order No.
+Value Entry,Order Type
+Value Entry,Partial Revaluation
+Value Entry,Posting Date
+Value Entry,Purchase Amount (Actual)
+Value Entry,Purchase Amount (Expected)
+Value Entry,Reason Code
+Value Entry,Return Reason Code
+Value Entry,Sales Amount (Actual)
+Value Entry,Sales Amount (Expected)
+Value Entry,Salespers./Purch. Code
+Value Entry,Source Code
+Value Entry,Source No.
+Value Entry,Source Posting Group
+Value Entry,Source Type
+Value Entry,SystemCreatedAt
+Value Entry,SystemModifiedAt
+Value Entry,Type
+Value Entry,User ID
+Value Entry,Valuation Date
+Value Entry,Valued By Average Cost
+Value Entry,Valued Quantity
+Value Entry,Variance Type
+Value Entry,Variant Code
+Value Entry,VAT Reporting Date
+Vendor,Address
+Vendor,Address 2
+Vendor,Blocked
+Vendor,City
+Vendor,Company Size Code
+Vendor,Contact
+Vendor,Country/Region Code
+Vendor,County
+Vendor,Creditor No.
+Vendor,CURP No.
+Vendor,Currency Code
+Vendor,E-Mail
+Vendor,Fax No.
+Vendor,Federal ID No.
+Vendor,Gen. Bus. Posting Group
+Vendor,Global Dimension 1 Code
+Vendor,Global Dimension 2 Code
+Vendor,IC Partner Code
+Vendor,Intrastat Partner Type
+Vendor,Invoice Disc. Code
+Vendor,Language Code
+Vendor,Last Date Modified
+Vendor,Last Modified Date Time
+Vendor,Location Code
+Vendor,Mobile Phone No.
+Vendor,Name
+Vendor,Name 2
+Vendor,No.
+Vendor,No. Series
+Vendor,Our Account No.
+Vendor,Partner Type
+Vendor,Payment Method Code
+Vendor,Payment Terms Code
+Vendor,Pay-to Vendor No.
+Vendor,Phone No.
+Vendor,Post Code
+Vendor,Prices Including VAT
+Vendor,Primary Contact No.
+Vendor,Priority
+Vendor,Purchaser Code
+Vendor,Responsibility Center
+Vendor,RFC No.
+Vendor,Search Name
+Vendor,Shipment Method Code
+Vendor,Shipping Agent Code
+Vendor,State Inscription
+Vendor,Statistics Group
+Vendor,SystemCreatedAt
+Vendor,SystemModifiedAt
+Vendor,Tax Area Code
+Vendor,Tax Identification Type
+Vendor,Tax Liable
+Vendor,Telex Answer Back
+Vendor,Telex No.
+Vendor,Territory Code
+Vendor,UPS Zone
+Vendor,Validate EU Vat Reg. No.
+Vendor,VAT Bus. Posting Group
+Vendor,VAT Registration No.
+Vendor,Vendor Posting Group
+Vendor Ledger Entry,Accepted Payment Tolerance
+Vendor Ledger Entry,Accepted Pmt. Disc. Tolerance
+Vendor Ledger Entry,Adjusted Currency Factor
+Vendor Ledger Entry,Amount to Apply
+Vendor Ledger Entry,Applies-to Doc. No.
+Vendor Ledger Entry,Applies-to Doc. Type
+Vendor Ledger Entry,Applies-to Ext. Doc. No.
+Vendor Ledger Entry,Applies-to ID
+Vendor Ledger Entry,Applying Entry
+Vendor Ledger Entry,Bal. Account No.
+Vendor Ledger Entry,Bal. Account Type
+Vendor Ledger Entry,Buy-from Vendor No.
+Vendor Ledger Entry,Closed at Date
+Vendor Ledger Entry,Closed by Amount
+Vendor Ledger Entry,Closed by Amount (LCY)
+Vendor Ledger Entry,Closed by Currency Amount
+Vendor Ledger Entry,Closed by Currency Code
+Vendor Ledger Entry,Closed by Entry No.
+Vendor Ledger Entry,Creditor No.
+Vendor Ledger Entry,Currency Code
+Vendor Ledger Entry,Description
+Vendor Ledger Entry,Dimension Set ID
+Vendor Ledger Entry,Document Date
+Vendor Ledger Entry,Document No.
+Vendor Ledger Entry,Document Type
+Vendor Ledger Entry,Due Date
+Vendor Ledger Entry,Entry No.
+Vendor Ledger Entry,Exported to Payment File
+Vendor Ledger Entry,External Document No.
+Vendor Ledger Entry,Global Dimension 1 Code
+Vendor Ledger Entry,Global Dimension 2 Code
+Vendor Ledger Entry,IC Partner Code
+Vendor Ledger Entry,Inv. Discount (LCY)
+Vendor Ledger Entry,Invoice Received Date
+Vendor Ledger Entry,Journal Batch Name
+Vendor Ledger Entry,Journal Templ. Name
+Vendor Ledger Entry,Max. Payment Tolerance
+Vendor Ledger Entry,Message to Recipient
+Vendor Ledger Entry,No. Series
+Vendor Ledger Entry,On Hold
+Vendor Ledger Entry,Open
+Vendor Ledger Entry,Orig. Pmt. Disc. Possible(LCY)
+Vendor Ledger Entry,Original Currency Factor
+Vendor Ledger Entry,Original Pmt. Disc. Possible
+Vendor Ledger Entry,Payment Method Code
+Vendor Ledger Entry,Payment Reference
+Vendor Ledger Entry,Pmt. Disc. Rcd.(LCY)
+Vendor Ledger Entry,Pmt. Disc. Tolerance Date
+Vendor Ledger Entry,Pmt. Discount Date
+Vendor Ledger Entry,Pmt. Tolerance (LCY)
+Vendor Ledger Entry,Positive
+Vendor Ledger Entry,Posting Date
+Vendor Ledger Entry,Prepayment
+Vendor Ledger Entry,Purchase (LCY)
+Vendor Ledger Entry,Purchaser Code
+Vendor Ledger Entry,Reason Code
+Vendor Ledger Entry,Recipient Bank Account
+Vendor Ledger Entry,Remaining Pmt. Disc. Possible
+Vendor Ledger Entry,Remit-to Code
+Vendor Ledger Entry,Reversed
+Vendor Ledger Entry,Reversed by Entry No.
+Vendor Ledger Entry,Reversed Entry No.
+Vendor Ledger Entry,Source Code
+Vendor Ledger Entry,SystemCreatedAt
+Vendor Ledger Entry,SystemModifiedAt
+Vendor Ledger Entry,Transaction No.
+Vendor Ledger Entry,User ID
+Vendor Ledger Entry,Vendor Name
+Vendor Ledger Entry,Vendor No.
+Vendor Ledger Entry,Vendor Posting Group

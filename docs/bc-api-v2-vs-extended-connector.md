@@ -1,6 +1,6 @@
 _Last updated: 2025-08-28 • [Edit this page](https://github.com/Vitae-Springs-Software-LLC/
 
-APIBuilder/edit/main/docs/bc-api-v2-vs-extended-connector.md)_
+APIExtender/edit/main/docs/bc-api-v2-vs-extended-connector.md)_
 
 # Business Central API v2.0 vs Extended Connector — Practical Q&A
 

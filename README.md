@@ -1,27 +1,60 @@
-🚀 Getting Started (quick)
+# API-Extender
 
-Install the .app in Business Central: Extensions → Manage → Upload.
+**API-Extender** (product) from _Vitae Springs Software LLC_ (DBA **API Extender**) is a native extension for Microsoft Dynamics 365 Business Central that exposes extended tables & custom fields through a clean, Power BI–ready API surface.
 
-Activate using the provided activation code (Business Central posts to your APIM /apibuilder/activate which forwards to Functions /api/activate).
+- **Download extension (.app):**  
+  ➜ https://github.com/Vitae-Springs-Software-LLC/API-Extender/releases/latest/download/api-extender.app
 
-Use the APIs (standard OData v4) or the extended endpoints for your custom tables/fields and simplified dimensions.
+- **Default configuration (CSV):**  
+  ➜ https://github.com/Vitae-Springs-Software-LLC/API-Extender/releases/latest/download/defaults.csv
 
-🧩 Files in this repo
+## Docs
+- [BC API v2 vs. Extended Connector Q&A](docs/bc-api-v2-vs-extended-connector.md)
 
-APIBuilder.app — the extension package
+---
 
-defaults.csv — example/default configuration
+> Legal entity: **Vitae Springs Software LLC**  
+> DBA: **API Extender**  
+> Product name: **API-Extender**  
+> Site: **https://apiextender.com** (redirects to **https://analyzebc.com**)
 
-docs/bc-api-v2-vs-extended-connector.md — the Q&A explainer for analysts/finance/owners
+## ✨ What it does
+- Select BC tables/fields that are safe and useful for reporting or integration.  
+- Generate Query (API) objects with consistent naming, versions, and publisher metadata.  
+- Optional **defaults.csv** to bootstrap a curated set of table/field selections.  
+- Simple license activation call from Business Central.  
+- Produces **app.json** and **appContents.al** from your selections for easy packaging.
 
-🧠 Notes for Power BI authors
+## ✅ Requirements
+- Microsoft Dynamics 365 Business Central (v22+ recommended)  
+- Permission to install extensions in your tenant
 
-OOB BC API v2.0 exposes dimensions via dimensionSetLines (child rows).
+## 🚀 Quick Start
+**1) Install the extension**
+- Download the `.app` from the Latest Release (or use the link in your welcome email).
+- In Business Central (Sandbox recommended): **Tell Me** → **Extension Management** → **Upload Extension** → select the `.app`.
 
-The extended connector can provide pre-flattened dimension columns and expose extension fields directly, reducing M-code merges and making models tenant-agnostic.
+**2) Set up API-Extender**
+- **Tell Me** → **API-Extender Setup**.  
+- Enter your **Publisher** and the **Activation Code** from your welcome email.  
+- (Optional) Click **Load Defaults** to populate selections from `defaults.csv`.
 
-🛠️ Support
+**3) Generate artifacts**
+- **Generate appContents.al** → creates all Query (API) objects.  
+- **Generate app.json** → creates a consistent `app.json` with dependencies and `idRanges`.
 
-Issues and clarifications: open a GitHub Issue on this repo.
+**4) Create a new Visual Studio Code project**
+- Install VS Code: https://code.visualstudio.com/download  
+- Install **AL Language** extension.  
+- **Ctrl+Shift+P** → **AL: Go!** to scaffold a BC project.
 
-Feel free to PR doc improvements (prefer squash merge for a clean history).
+**5) Build and publish your new app**
+- Copy `appContents.al` and `app.json` into the project; remove the `Customer.al` example.  
+- **Ctrl+Shift+P** → **AL: Download Symbols**  
+- **F5** to **Publish (with Debugging)** to your Sandbox.  
+- When ready, export the app from Extension Management, commit to source control (GitHub recommended), and deploy to Production per your process.
+
+## 🔐 License Activation (web service details)
+The extension posts this JSON payload to your gateway:
+```json
+{ "activationCode": "GUID-string", "publisher": "Your Publisher Name", "requestId": "Stable Tenant Hash" }
