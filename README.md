@@ -2,22 +2,23 @@
 
 **API-Extender** (product) from _Vitae Springs Software LLC_ (DBA **API Extender**) is a native extension for Microsoft Dynamics 365 Business Central that exposes extended tables & custom fields through a clean, Power BI–ready API surface.
 
-- **Download extension (.app):**  
-  ➜ https://github.com/AnalyzeBC/API-Extender/releases/latest/download/api-extender.app
 
-- **Default configuration (CSV):**  
-  ➜ https://github.com/AnalyzeBC/API-Extender/releases/latest/download/defaults.csv
+- **Download extension (.app):**  
+<p>
+  <a href="https://github.com/AnalyzeBC/api-extender/releases/latest/download/API-Extender.zip">
+    <img alt="Download API-Extender.zip" src="https://img.shields.io/badge/Download-API--Extender.zip-blue" />
+  </a>
+- **Default configuration (CSV):** 
+  &nbsp;
+  <a href="https://github.com/AnalyzeBC/api-extender/releases/tag/v1.0.0.0">
+    <img alt="Release v1.0.0.0" src="https://img.shields.io/badge/Release-v1.0.0.0-success" />
+  </a>
+</p>
 
 ## Docs
 - [BC API v2 vs. Extended Connector Q&A](docs/bc-api-v2-vs-extended-connector.md)
 
 ---
-
-> Legal entity: **Vitae Springs Software LLC**  
-> DBA: **API Extender**  
-> Product name: **API-Extender**  
-> Site: **https://apiextender.com** (redirects to **https://analyzebc.com**)
-
 ## ✨ What it does
 - Select BC tables/fields that are safe and useful for reporting or integration.  
 - Generate Query (API) objects with consistent naming, versions, and publisher metadata.  
@@ -58,3 +59,8 @@
 The extension posts this JSON payload to your gateway:
 ```json
 { "activationCode": "GUID-string", "publisher": "Your Publisher Name", "requestId": "Stable Tenant Hash" }
+
+> Legal entity: **Vitae Springs Software LLC**  
+> DBA: **API Extender**  
+> Product name: **API-Extender**  
+> Site: **https://apiextender.com** (redirects to **https://analyzebc.com**)
